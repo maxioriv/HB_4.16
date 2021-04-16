@@ -2490,7 +2490,7 @@ break;
 case CardDB.cardName.mechwarper:
 return -25;
 break;
-//偶数萨 卡卡修改
+//偶数萨 个人修改
 //分裂战斧
 case CardDB.cardName.分裂战斧: 
 int ownTotemsCount= 0;
@@ -2698,7 +2698,7 @@ return -10;
 //吞噬者阿扎里
 case CardDB.cardName.吞噬者阿扎里:
 return -10;
-//奥秘法 卡卡修改
+//奥秘法 个人修改
 //奥术智慧
 case CardDB.cardName.arcaneintellect:
 return -5;
@@ -2804,7 +2804,7 @@ return 20;
 //秘法学家
 case CardDB.cardName.arcanologist:
 return -6;
-//奇数骑 卡卡修改
+//奇数骑 个人修改
 //摇报告
 case CardDB.cardName.thesilverhand: 
 return -2;

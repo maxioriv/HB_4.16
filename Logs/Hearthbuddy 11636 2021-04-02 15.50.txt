@@ -1,5 +1,5 @@
 2021-04-02 07:50:40,413 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
-Path: D:\hb\maxiori_hb\卡卡2.8优化奥秘法\卡卡2.8\Release\<ExeName>
+Path: D:\hb\maxiori_hb\个人2.8优化奥秘法\个人2.8\Release\<ExeName>
 
 OS Name: Microsoft Windows 10 专业版
 OS Version: 10.0.18363

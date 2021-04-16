@@ -1,5 +1,5 @@
 2020-05-23 05:17:56,418 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
-Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+Path: C:\Users\<Username>\Desktop\个人2.6\Release\<ExeName>
 
 OS Name: Microsoft Windows 10 企业版
 OS Version: 10.0.17134
@@ -75,10 +75,10 @@ CurrentCulture: zh-CN [Chinese (Simplified, China)]
 2020-05-23 05:18:03,172 [7] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
 2020-05-23 05:18:03,260 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
 2020-05-23 05:18:03,264 [1] DEBUG Logger (null) - Current bot set to 脚本.
-2020-05-23 05:18:06,550 [7] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(18,1) : error CS1022: 应输入类型、命名空间定义或文件尾
+2020-05-23 05:18:06,550 [7] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(18,1) : error CS1022: 应输入类型、命名空间定义或文件尾
 2020-05-23 05:18:06,589 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
 2020-05-23 05:18:06,590 [1] DEBUG Logger (null) - Current routine set to NullRoutine.
-2020-05-23 05:18:08,252 [7] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\卡卡2.6\Release\Plugins\QuestPlus\QuestPlus.cs(16,7) : error CS0246: 未能找到类型或命名空间名称“HREngine”(是否缺少 using 指令或程序集引用?)
+2020-05-23 05:18:08,252 [7] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\个人2.6\Release\Plugins\QuestPlus\QuestPlus.cs(16,7) : error CS0246: 未能找到类型或命名空间名称“HREngine”(是否缺少 using 指令或程序集引用?)
 2020-05-23 05:18:08,862 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
 2020-05-23 05:18:08,866 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
 2020-05-23 05:18:08,868 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.

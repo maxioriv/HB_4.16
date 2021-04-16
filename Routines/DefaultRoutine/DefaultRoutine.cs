@@ -152,7 +152,7 @@ def Execute():
         /// <summary> The description of the routine. </summary>
         public string Description
         {
-            get { return "卡卡整合2.8."; }
+            get { return "个人整合2.8."; }
         }
 
         /// <summary>The author of this routine.</summary>

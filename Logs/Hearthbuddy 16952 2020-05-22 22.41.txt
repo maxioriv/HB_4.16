@@ -1,5 +1,5 @@
 2020-05-22 14:41:37,971 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
-Path: C:\Users\<Username>\Desktop\卡卡2.5\Release\<ExeName>
+Path: C:\Users\<Username>\Desktop\个人2.5\Release\<ExeName>
 
 OS Name: Microsoft Windows 10 企业版
 OS Version: 10.0.17134
@@ -1858,12 +1858,12 @@ GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sy
 2020-05-22 15:14:48,413 [29] INFO  Logger (null) - AI计算中，请稍候... 23:14:48.4137
 2020-05-22 15:14:48,521 [29] ERROR Logger (null) - [Tick] Exception during execution:
 Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.AggregateException: One or more errors occurred. ---> System.NullReferenceException: Object reference not set to an instance of an object.
-   at HREngine.Bots.Playfield.minionGetDamageOrHeal(Minion m, Int32 dmgOrHeal, Boolean dontDmgLoss) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 7022
-   at HREngine.Bots.Sim_CS1_130.onCardPlay(Playfield p, Boolean ownplay, Minion target, Int32 choice) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_CS1_130.cs:line 14
-   at HREngine.Bots.Playfield.playACard(Handcard hc, Minion target, Int32 position, Int32 choice, Int32 penality) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3783
-   at HREngine.Bots.Playfield.doAction(Action aa) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3219
-   at HREngine.Bots.MiniSimulator.startEnemyTurnSimThread(List`1 source, Int32 startIndex, Int32 endIndex) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 261
-   at HREngine.Bots.MiniSimulator.<>c__DisplayClass4.<doallmoves>b__0(Tuple`2 range) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 134
+   at HREngine.Bots.Playfield.minionGetDamageOrHeal(Minion m, Int32 dmgOrHeal, Boolean dontDmgLoss) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 7022
+   at HREngine.Bots.Sim_CS1_130.onCardPlay(Playfield p, Boolean ownplay, Minion target, Int32 choice) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_CS1_130.cs:line 14
+   at HREngine.Bots.Playfield.playACard(Handcard hc, Minion target, Int32 position, Int32 choice, Int32 penality) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3783
+   at HREngine.Bots.Playfield.doAction(Action aa) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3219
+   at HREngine.Bots.MiniSimulator.startEnemyTurnSimThread(List`1 source, Int32 startIndex, Int32 endIndex) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 261
+   at HREngine.Bots.MiniSimulator.<>c__DisplayClass4.<doallmoves>b__0(Tuple`2 range) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 134
    at System.Threading.Tasks.Parallel.<>c__DisplayClass42_0`2.<PartitionerForEachWorker>b__1()
    at System.Threading.Tasks.Task.InnerInvoke()
    at System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
@@ -1874,16 +1874,16 @@ Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine 
    at System.Threading.Tasks.Task.Wait()
    at System.Threading.Tasks.Parallel.PartitionerForEachWorker[TSource,TLocal](Partitioner`1 source, ParallelOptions parallelOptions, Action`1 simpleBody, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
    at System.Threading.Tasks.Parallel.ForEach[TSource](Partitioner`1 source, Action`1 body)
-   at HREngine.Bots.MiniSimulator.doallmoves(Playfield playf) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 131
-   at HREngine.Bots.Ai.doallmoves(Boolean test, Boolean isLethalCheck) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 120
-   at HREngine.Bots.Ai.dosomethingclever(Behavior bbase) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 254
-   at HREngine.Bots.Silverfish.updateEverything(Behavior botbase, Int32 numcal, Boolean& sleepRetry) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 377
-   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__21.MoveNext() in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 724
+   at HREngine.Bots.MiniSimulator.doallmoves(Playfield playf) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 131
+   at HREngine.Bots.Ai.doallmoves(Boolean test, Boolean isLethalCheck) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 120
+   at HREngine.Bots.Ai.dosomethingclever(Behavior bbase) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 254
+   at HREngine.Bots.Silverfish.updateEverything(Behavior botbase, Int32 numcal, Boolean& sleepRetry) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 377
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__21.MoveNext() in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 724
 --- End of stack trace from previous location where exception was thrown ---
    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
    at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
-   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext() in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 440
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext() in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 440
 --- End of stack trace from previous location where exception was thrown ---
    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
@@ -2089,12 +2089,12 @@ GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sy
 2020-05-22 15:18:01,968 [29] INFO  Logger (null) - AI计算中，请稍候... 23:18:01.9681
 2020-05-22 15:18:02,074 [29] ERROR Logger (null) - [Tick] Exception during execution:
 Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.AggregateException: One or more errors occurred. ---> System.NullReferenceException: Object reference not set to an instance of an object.
-   at HREngine.Bots.Playfield.minionGetDamageOrHeal(Minion m, Int32 dmgOrHeal, Boolean dontDmgLoss) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 7022
-   at HREngine.Bots.Sim_CS1_130.onCardPlay(Playfield p, Boolean ownplay, Minion target, Int32 choice) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_CS1_130.cs:line 14
-   at HREngine.Bots.Playfield.playACard(Handcard hc, Minion target, Int32 position, Int32 choice, Int32 penality) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3783
-   at HREngine.Bots.Playfield.doAction(Action aa) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3219
-   at HREngine.Bots.MiniSimulator.startEnemyTurnSimThread(List`1 source, Int32 startIndex, Int32 endIndex) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 261
-   at HREngine.Bots.MiniSimulator.<>c__DisplayClass4.<doallmoves>b__0(Tuple`2 range) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 134
+   at HREngine.Bots.Playfield.minionGetDamageOrHeal(Minion m, Int32 dmgOrHeal, Boolean dontDmgLoss) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 7022
+   at HREngine.Bots.Sim_CS1_130.onCardPlay(Playfield p, Boolean ownplay, Minion target, Int32 choice) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_CS1_130.cs:line 14
+   at HREngine.Bots.Playfield.playACard(Handcard hc, Minion target, Int32 position, Int32 choice, Int32 penality) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3783
+   at HREngine.Bots.Playfield.doAction(Action aa) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 3219
+   at HREngine.Bots.MiniSimulator.startEnemyTurnSimThread(List`1 source, Int32 startIndex, Int32 endIndex) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 261
+   at HREngine.Bots.MiniSimulator.<>c__DisplayClass4.<doallmoves>b__0(Tuple`2 range) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 134
    at System.Threading.Tasks.Parallel.<>c__DisplayClass42_0`2.<PartitionerForEachWorker>b__1()
    at System.Threading.Tasks.Task.InnerInvoke()
    at System.Threading.Tasks.Task.InnerInvokeWithArg(Task childTask)
@@ -2105,16 +2105,16 @@ Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine 
    at System.Threading.Tasks.Task.Wait()
    at System.Threading.Tasks.Parallel.PartitionerForEachWorker[TSource,TLocal](Partitioner`1 source, ParallelOptions parallelOptions, Action`1 simpleBody, Action`2 bodyWithState, Action`3 bodyWithStateAndIndex, Func`4 bodyWithStateAndLocal, Func`5 bodyWithEverything, Func`1 localInit, Action`1 localFinally)
    at System.Threading.Tasks.Parallel.ForEach[TSource](Partitioner`1 source, Action`1 body)
-   at HREngine.Bots.MiniSimulator.doallmoves(Playfield playf) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 131
-   at HREngine.Bots.Ai.doallmoves(Boolean test, Boolean isLethalCheck) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 120
-   at HREngine.Bots.Ai.dosomethingclever(Behavior bbase) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 254
-   at HREngine.Bots.Silverfish.updateEverything(Behavior botbase, Int32 numcal, Boolean& sleepRetry) in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 377
-   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__21.MoveNext() in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 724
+   at HREngine.Bots.MiniSimulator.doallmoves(Playfield playf) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\MiniSimulator.cs:line 131
+   at HREngine.Bots.Ai.doallmoves(Boolean test, Boolean isLethalCheck) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 120
+   at HREngine.Bots.Ai.dosomethingclever(Behavior bbase) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 254
+   at HREngine.Bots.Silverfish.updateEverything(Behavior botbase, Int32 numcal, Boolean& sleepRetry) in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 377
+   at HREngine.Bots.DefaultRoutine.<OurTurnLogic>d__21.MoveNext() in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 724
 --- End of stack trace from previous location where exception was thrown ---
    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
    at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
-   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext() in c:\Users\Administrator\Desktop\卡卡2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 440
+   at HREngine.Bots.DefaultRoutine.<Logic>d__3.MoveNext() in c:\Users\Administrator\Desktop\个人2.5\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 440
 --- End of stack trace from previous location where exception was thrown ---
    at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
    at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)

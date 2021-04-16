@@ -1,5 +1,5 @@
 2020-05-23 04:34:06,696 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
-Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+Path: C:\Users\<Username>\Desktop\个人2.6\Release\<ExeName>
 
 OS Name: Microsoft Windows 10 企业版
 OS Version: 10.0.17134
@@ -75,11 +75,11 @@ CurrentCulture: zh-CN [Chinese (Simplified, China)]
 2020-05-23 04:34:13,323 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
 2020-05-23 04:34:13,404 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
 2020-05-23 04:34:13,404 [1] DEBUG Logger (null) - Current bot set to 脚本.
-2020-05-23 04:34:16,953 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB_cardIDEnum.cs(58369,4) : error CS0102: 类型“HREngine.Bots.CardDB.cardIDEnum”已经包含“HERO_08bp”的定义
-2020-05-23 04:34:16,953 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB_cardIDEnum.cs(58379,4) : error CS0102: 类型“HREngine.Bots.CardDB.cardIDEnum”已经包含“HERO_08bp2”的定义
+2020-05-23 04:34:16,953 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB_cardIDEnum.cs(58369,4) : error CS0102: 类型“HREngine.Bots.CardDB.cardIDEnum”已经包含“HERO_08bp”的定义
+2020-05-23 04:34:16,953 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB_cardIDEnum.cs(58379,4) : error CS0102: 类型“HREngine.Bots.CardDB.cardIDEnum”已经包含“HERO_08bp2”的定义
 2020-05-23 04:34:16,993 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
 2020-05-23 04:34:16,994 [1] DEBUG Logger (null) - Current routine set to NullRoutine.
-2020-05-23 04:34:18,704 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\卡卡2.6\Release\Plugins\QuestPlus\QuestPlus.cs(16,7) : error CS0246: 未能找到类型或命名空间名称“HREngine”(是否缺少 using 指令或程序集引用?)
+2020-05-23 04:34:18,704 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\个人2.6\Release\Plugins\QuestPlus\QuestPlus.cs(16,7) : error CS0246: 未能找到类型或命名空间名称“HREngine”(是否缺少 using 指令或程序集引用?)
 2020-05-23 04:34:19,346 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
 2020-05-23 04:34:19,349 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
 2020-05-23 04:34:19,350 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.

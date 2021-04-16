@@ -1,5 +1,5 @@
 2020-05-23 03:06:47,059 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
-Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+Path: C:\Users\<Username>\Desktop\个人2.6\Release\<ExeName>
 
 OS Name: Microsoft Windows 10 企业版
 OS Version: 10.0.17134
@@ -79,19 +79,19 @@ CurrentCulture: zh-CN [Chinese (Simplified, China)]
 2020-05-23 03:06:59,419 [8] INFO  Logger (null) - 开始启动...
 2020-05-23 03:07:01,601 [8] ERROR AssemblyLoader`1 (null) - [Reload] An exception occurred.
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
-   at HREngine.Bots.CardDB..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1309
-   at HREngine.Bots.CardDB.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1216
-   at HREngine.Bots.Handmanager.Handcard..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Handmanager.cs:line 23
-   at HREngine.Bots.Minion..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Minion.cs:line 121
-   at HREngine.Bots.Hrtprozis..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 84
-   at HREngine.Bots.Hrtprozis.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 115
-   at HREngine.Bots.Playfield..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 60
-   at HREngine.Bots.Ai..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 21
-   at HREngine.Bots.Ai.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 59
-   at HREngine.Bots.Silverfish.setBehavior() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 174
-   at HREngine.Bots.Silverfish..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 134
-   at HREngine.Bots.Silverfish.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 111
-   at HREngine.Bots.DefaultRoutine..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 51
+   at HREngine.Bots.CardDB..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1309
+   at HREngine.Bots.CardDB.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1216
+   at HREngine.Bots.Handmanager.Handcard..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Handmanager.cs:line 23
+   at HREngine.Bots.Minion..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Minion.cs:line 121
+   at HREngine.Bots.Hrtprozis..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 84
+   at HREngine.Bots.Hrtprozis.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 115
+   at HREngine.Bots.Playfield..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 60
+   at HREngine.Bots.Ai..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 21
+   at HREngine.Bots.Ai.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 59
+   at HREngine.Bots.Silverfish.setBehavior() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 174
+   at HREngine.Bots.Silverfish..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 134
+   at HREngine.Bots.Silverfish.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 111
+   at HREngine.Bots.DefaultRoutine..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 51
    --- End of inner exception stack trace ---
    at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
    at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
@@ -106,19 +106,19 @@ System.Reflection.TargetInvocationException: Exception has been thrown by the ta
    at Triton.Common.AssemblyLoader`1.Reload(String reason) in E:\炉石\havetrynew\Triton\Common\AssemblyLoader!1.cs:line 140
 2020-05-23 03:07:01,650 [8] INFO  Logger (null) - 开始启动...
 2020-05-23 03:07:03,770 [8] ERROR Logger (null) - [Load] An exception occurred: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
-   at HREngine.Bots.CardDB..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1309
-   at HREngine.Bots.CardDB.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1216
-   at HREngine.Bots.Handmanager.Handcard..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Handmanager.cs:line 23
-   at HREngine.Bots.Minion..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Minion.cs:line 121
-   at HREngine.Bots.Hrtprozis..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 84
-   at HREngine.Bots.Hrtprozis.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 115
-   at HREngine.Bots.Playfield..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 60
-   at HREngine.Bots.Ai..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 21
-   at HREngine.Bots.Ai.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 59
-   at HREngine.Bots.Silverfish.setBehavior() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 174
-   at HREngine.Bots.Silverfish..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 134
-   at HREngine.Bots.Silverfish.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 111
-   at HREngine.Bots.DefaultRoutine..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 51
+   at HREngine.Bots.CardDB..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1309
+   at HREngine.Bots.CardDB.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1216
+   at HREngine.Bots.Handmanager.Handcard..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Handmanager.cs:line 23
+   at HREngine.Bots.Minion..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Minion.cs:line 121
+   at HREngine.Bots.Hrtprozis..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 84
+   at HREngine.Bots.Hrtprozis.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 115
+   at HREngine.Bots.Playfield..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 60
+   at HREngine.Bots.Ai..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 21
+   at HREngine.Bots.Ai.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 59
+   at HREngine.Bots.Silverfish.setBehavior() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 174
+   at HREngine.Bots.Silverfish..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 134
+   at HREngine.Bots.Silverfish.get_Instance() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 111
+   at HREngine.Bots.DefaultRoutine..ctor() in c:\Users\Administrator\Desktop\个人2.6\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 51
    --- End of inner exception stack trace ---
    at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
    at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)

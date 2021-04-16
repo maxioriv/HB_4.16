@@ -1,5 +1,5 @@
 2020-05-23 05:21:23,548 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
-Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+Path: C:\Users\<Username>\Desktop\个人2.6\Release\<ExeName>
 
 OS Name: Microsoft Windows 10 企业版
 OS Version: 10.0.17134
