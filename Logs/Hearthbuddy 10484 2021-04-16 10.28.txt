@@ -1,0 +1,23 @@
+2021-04-16 02:28:16,422 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: D:\hb\maxiori_hb\卡卡2.8优化奥秘法\卡卡2.8\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.18363
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2021-04-16 02:28:16,514 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2021-04-16 02:28:16,526 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2021-04-16 02:28:16,527 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2021-04-16 02:28:16,528 [1] INFO  Logger (null) - Now checking prerequisites...
+2021-04-16 02:28:17,146 [1] INFO  Logger (null) - Prerequisite check complete!
+2021-04-16 02:28:17,632 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2021-04-16 02:28:17,641 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2021-04-16 02:28:17,750 [1] INFO  Logger (null) - [AuthRegion] China.
+2021-04-16 02:28:18,080 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2021-04-16 02:28:18,104 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2021-04-16 02:28:18,317 [1] INFO  Logger (null) - Region: cn
+2021-04-16 02:28:18,319 [1] INFO  Logger (null) - T: 5249227387410546349 严禁交易出售，免费使用！！！
+2021-04-16 02:28:18,759 [1] ERROR Logger (null) - Could not attach to a Hearthstone process. Please make sure an available Hearthstone process is running.

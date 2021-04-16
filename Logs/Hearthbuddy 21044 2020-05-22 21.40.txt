@@ -1,0 +1,157 @@
+2020-05-22 13:40:13,397 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\Desktop\卡卡2.5\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 企业版
+OS Version: 10.0.17134
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-22 13:40:13,479 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-22 13:40:13,480 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-22 13:40:13,481 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-22 13:40:13,481 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-22 13:40:13,910 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-22 13:40:14,016 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2020-05-22 13:40:14,031 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-22 13:40:14,043 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-22 13:40:14,250 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-22 13:40:14,259 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 1
+2020-05-22 13:40:14,287 [1] INFO  Logger (null) - Region: cn
+2020-05-22 13:40:14,289 [1] INFO  Logger (null) - T: 5248943534570251845 严禁交易出售，免费使用！！！
+2020-05-22 13:40:14,868 [8] INFO  Logger (null) - 现在使用 DX11...
+2020-05-22 13:40:19,903 [8] INFO  Logger (null) - 炉石传说的版本号为 (48705, 1574674)
+2020-05-22 13:40:19,941 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2020-05-22 13:40:20,043 [8] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-22 13:40:20,047 [8] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2020-05-22 13:40:20,048 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-22 13:40:20,049 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-22 13:40:20,050 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2020-05-22 13:40:20,050 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2020-05-22 13:40:20,051 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-22 13:40:20,052 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-22 13:40:20,053 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2020-05-22 13:40:20,053 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-22 13:40:20,054 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-22 13:40:20,055 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-22 13:40:20,055 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-22 13:40:20,056 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-22 13:40:20,056 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 13:40:20,057 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-22 13:40:20,058 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-22 13:40:20,059 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2020-05-22 13:40:20,059 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-22 13:40:20,060 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-22 13:40:20,061 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-22 13:40:20,062 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-22 13:40:20,063 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2020-05-22 13:40:20,063 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-22 13:40:20,064 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-22 13:40:20,064 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-22 13:40:20,078 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2020-05-22 13:40:20,079 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2020-05-22 13:40:20,079 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-22 13:40:20,080 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = True.
+2020-05-22 13:40:20,080 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 1000.
+2020-05-22 13:40:20,081 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 3000.
+2020-05-22 13:40:20,082 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-22 13:40:20,082 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-22 13:40:20,083 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-22 13:40:20,084 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-22 13:40:20,084 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 13:40:20,085 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-22 13:40:20,086 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-22 13:40:20,087 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 偶数萨.
+2020-05-22 13:40:20,088 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-22 13:40:20,089 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-22 13:40:20,090 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-22 13:40:20,091 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-22 13:40:20,092 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2020-05-22 13:40:20,093 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-22 13:40:20,094 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-22 13:40:20,094 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-22 13:40:20,095 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-22 13:40:20,095 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-22 13:40:20,164 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2020-05-22 13:40:20,167 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2020-05-22 13:40:25,819 [8] INFO  Logger (null) - 开始启动...
+2020-05-22 13:40:27,977 [8] INFO  Logger (null) - CardList:6884
+2020-05-22 13:40:28,547 [8] INFO  Logger (null) - ----------------------------
+2020-05-22 13:40:28,547 [8] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2020-05-22 13:40:28,548 [8] INFO  Logger (null) - ----------------------------
+2020-05-22 13:40:28,592 [8] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2020-05-22 13:40:28,592 [8] INFO  Logger (null) - ----------------------------
+2020-05-22 13:40:28,598 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2020-05-22 13:40:28,599 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2020-05-22 13:40:28,600 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2020-05-22 13:40:28,601 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2020-05-22 13:40:28,601 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2020-05-22 13:40:28,602 [8] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = Control.
+2020-05-22 13:40:28,608 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2020-05-22 13:40:28,609 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2020-05-22 13:40:28,610 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2020-05-22 13:40:28,610 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2020-05-22 13:40:28,611 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2020-05-22 13:40:28,612 [8] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = 控场模式.
+2020-05-22 13:40:29,279 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
+2020-05-22 13:40:29,280 [1] DEBUG Logger (null) - Current routine set to 策略.
+2020-05-22 13:40:31,761 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-22 13:40:31,763 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-22 13:40:31,764 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-22 13:40:31,765 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-22 13:40:31,766 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-22 13:40:31,767 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-22 13:40:31,768 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-22 13:40:31,768 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-22 13:40:31,769 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-22 13:40:31,769 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-22 13:40:31,773 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-22 13:40:31,774 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-22 13:40:31,775 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-22 13:40:31,780 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-22 13:40:31,781 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-22 13:40:31,782 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-22 13:40:31,783 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-22 13:40:31,783 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-22 13:40:31,784 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-22 13:40:31,784 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-22 13:40:31,785 [8] DEBUG Logger (null) - [自动停止插件] 开启
+2020-05-22 13:40:31,790 [8] INFO  Logger (null) - [日常任务插件设置] 自动停止至所有日常任务完成 = True.
+2020-05-22 13:40:31,798 [8] DEBUG Logger (null) - [日常任务插件] 开启
+2020-05-22 13:40:31,806 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2020-05-22 13:40:31,808 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 休闲模式.
+2020-05-22 13:40:31,809 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2020-05-22 13:40:31,810 [8] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2020-05-22 13:40:31,811 [8] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2020-05-22 13:40:31,812 [8] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = True.
+2020-05-22 13:40:31,813 [8] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = True.
+2020-05-22 13:40:31,814 [8] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2020-05-22 13:40:31,815 [8] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = True.
+2020-05-22 13:40:31,815 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2020-05-22 13:40:31,816 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2020-05-22 13:40:31,817 [8] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = False.
+2020-05-22 13:40:31,817 [8] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 60.
+2020-05-22 13:40:31,818 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2020-05-22 13:40:31,819 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2020-05-22 13:40:31,835 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2020-05-22 13:40:31,836 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 排位赛.
+2020-05-22 13:40:31,837 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2020-05-22 13:40:31,837 [8] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2020-05-22 13:40:31,839 [8] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2020-05-22 13:40:31,839 [8] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = False.
+2020-05-22 13:40:31,840 [8] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = False.
+2020-05-22 13:40:31,840 [8] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2020-05-22 13:40:31,841 [8] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = False.
+2020-05-22 13:40:31,841 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2020-05-22 13:40:31,841 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2020-05-22 13:40:31,842 [8] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = True.
+2020-05-22 13:40:31,842 [8] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 10.
+2020-05-22 13:40:31,843 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2020-05-22 13:40:31,843 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2020-05-22 13:40:31,844 [8] DEBUG Logger (null) - [日常增强任务] 初始化
+2020-05-22 13:40:31,848 [8] DEBUG Logger (null) - [统计插件] 初始化
+2020-05-22 13:40:31,981 [8] DEBUG Logger (null) - [统计插件] 启用
+2020-05-22 13:40:32,075 [8] INFO  Logger (null) - 
+Please read the following guide before using this program:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html

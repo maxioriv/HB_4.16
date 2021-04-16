@@ -1,0 +1,22 @@
+{
+  "ArenaDontOpenRewards": false,
+  "ArenaDontDraft": false,
+  "AutoConcedeMinDelayMs": 15000,
+  "AutoConcedeMaxDelayMs": 30000,
+  "SpectateRandomFriend": true,
+  "SpectateAllowedName": "",
+  "HideInactiveGameMode": true,
+  "AutoConcedeAfterConstructedWin": false,
+  "AutoConcedeNextConstructedGame": false,
+  "RoutineMustDraftArena": true,
+  "ConstructedMode": 0,
+  "ConstructedCustomDeck": "",
+  "AutoGreet": true,
+  "GameMode": 0,
+  "ConstructedGameRule": 0,
+  "PracticeDifficulty": 0,
+  "PracticeOpponentClass": 3,
+  "PracticeCustomDeck": "",
+  "FriendlyCustomDeck": "",
+  "FriendlyAllowedName": ""
+}

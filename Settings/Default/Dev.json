@@ -1,0 +1,6 @@
+{
+  "FileName": "",
+  "Assemblies": "System.dll\r\nSystem.Core.dll\r\nHearthbuddy.exe\r\nlog4net.dll\r\ngreymagic.dll",
+  "ClassName": "RuntimeCode",
+  "Code": "using Triton.Common;\r\nusing Triton.Game;\r\nusing Triton.Bot;\r\nusing log4net;\r\nusing Logger = Triton.Common.LogUtilities.Logger;\r\n\r\npublic class RuntimeCode\r\n{\r\n\tprivate static readonly ILog Log = Logger.GetLoggerInstanceForType();\r\n\r\n\tpublic void Execute()\r\n\t{\r\n\t\tusing(TritonHs.AcquireFrame())\r\n\t\t{\r\n\t\t\tLog.DebugFormat(\"Hello World!\");\r\n\t\t}\r\n\t}\r\n}"
+}

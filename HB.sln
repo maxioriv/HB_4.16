@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HB", "HB.csproj", "{B57BCF1E-D348-4263-9CAD-62560F0851BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Debug|x86.ActiveCfg = Debug|x86
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Debug|x86.Build.0 = Debug|x86
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Release|x86.ActiveCfg = Release|x86
+		{B57BCF1E-D348-4263-9CAD-62560F0851BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01210DD7-802C-428F-ACF0-31F783B9574D}
+	EndGlobalSection
+EndGlobal

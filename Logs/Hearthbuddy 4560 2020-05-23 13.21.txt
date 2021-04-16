@@ -1,0 +1,33 @@
+2020-05-23 05:21:23,548 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 企业版
+OS Version: 10.0.17134
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-23 05:21:23,595 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-23 05:21:23,595 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-23 05:21:23,596 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-23 05:21:23,596 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-23 05:21:23,968 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-23 05:21:24,068 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2020-05-23 05:21:24,080 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-23 05:21:24,091 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-23 05:21:24,315 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-23 05:21:24,324 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2020-05-23 05:21:24,340 [Hotkey Processing Loop] DEBUG Logger (null) - Unhandled global exception! System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Triton.Common.Hotkeys.smethod_3() in E:\炉石\havetrynew\Triton\Common\Hotkeys.cs:line 137
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
+2020-05-23 05:21:24,363 [1] INFO  Logger (null) - Region: cn
+2020-05-23 05:21:24,366 [1] INFO  Logger (null) - T: 5248944099271002337 严禁交易出售，免费使用！！！
+2020-05-23 05:21:26,247 [8] INFO  Logger (null) - 现在使用 DX11...

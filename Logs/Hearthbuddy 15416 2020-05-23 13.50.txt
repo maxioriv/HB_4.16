@@ -1,0 +1,167 @@
+2020-05-23 05:50:33,029 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\Desktop\2.7\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 企业版
+OS Version: 10.0.17134
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-23 05:50:33,072 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-23 05:50:33,073 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-23 05:50:33,073 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-23 05:50:33,074 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-23 05:50:33,452 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-23 05:50:33,564 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2020-05-23 05:50:33,579 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-23 05:50:33,591 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-23 05:50:33,844 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-23 05:50:33,854 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2020-05-23 05:50:33,902 [1] INFO  Logger (null) - Region: cn
+2020-05-23 05:50:33,903 [1] INFO  Logger (null) - T: 5248944116766394213 严禁交易出售，免费使用！！！
+2020-05-23 05:50:34,414 [8] INFO  Logger (null) - 现在使用 DX11...
+2020-05-23 05:50:39,528 [8] INFO  Logger (null) - 炉石传说的版本号为 (48705, 1574674)
+2020-05-23 05:50:39,577 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2020-05-23 05:50:39,693 [8] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-23 05:50:39,694 [8] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2020-05-23 05:50:39,695 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 05:50:39,695 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 05:50:39,695 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2020-05-23 05:50:39,696 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2020-05-23 05:50:39,696 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-23 05:50:39,697 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-23 05:50:39,697 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2020-05-23 05:50:39,698 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 05:50:39,698 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 05:50:39,698 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 05:50:39,699 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 05:50:39,699 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 05:50:39,699 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 05:50:39,700 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 05:50:39,701 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 05:50:39,701 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2020-05-23 05:50:39,702 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 05:50:39,705 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 05:50:39,706 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-23 05:50:39,707 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 05:50:39,708 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2020-05-23 05:50:39,709 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 05:50:39,709 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 05:50:39,710 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 05:50:39,722 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2020-05-23 05:50:39,722 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2020-05-23 05:50:39,723 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-23 05:50:39,723 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = True.
+2020-05-23 05:50:39,724 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 10000.
+2020-05-23 05:50:39,724 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 05:50:39,725 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 05:50:39,725 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 05:50:39,726 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 05:50:39,726 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 05:50:39,727 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 05:50:39,727 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 05:50:39,728 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 05:50:39,729 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 66.
+2020-05-23 05:50:39,729 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 05:50:39,730 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 05:50:39,731 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 随机模式.
+2020-05-23 05:50:39,732 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 05:50:39,733 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2020-05-23 05:50:39,734 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 05:50:39,734 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 05:50:39,735 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 05:50:39,735 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 05:50:39,736 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 05:50:39,811 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2020-05-23 05:50:39,814 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2020-05-23 05:50:44,183 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\DefaultRoutine.cs(601,27) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-23 05:50:44,184 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\DefaultRoutine.cs(646,24) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-23 05:50:44,184 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\DefaultRoutine.cs(1166,27) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-23 05:50:44,184 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\DefaultRoutine.cs(1182,27) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-23 05:50:44,185 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\Mulligan.cs(118,30) : warning CS0168: 声明了变量“ee”，但从未使用过
+2020-05-23 05:50:44,185 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\Mulligan.cs(150,34) : warning CS0168: 声明了变量“eee”，但从未使用过
+2020-05-23 05:50:44,185 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(172,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,185 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(619,22) : warning CS0219: 变量“frothingberserkerEnemy”已赋值，但其值从未使用过
+2020-05-23 05:50:44,185 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(620,22) : warning CS0219: 变量“frothingberserkerOwn”已赋值，但其值从未使用过
+2020-05-23 05:50:44,186 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(621,22) : warning CS0219: 变量“grimpatronEnemy”已赋值，但其值从未使用过
+2020-05-23 05:50:44,186 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(622,22) : warning CS0219: 变量“grimpatronOwn”已赋值，但其值从未使用过
+2020-05-23 05:50:44,186 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1046,80) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,186 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1047,72) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,187 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1048,71) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,187 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1068,76) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,187 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1069,76) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,188 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1119,78) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,188 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1120,75) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,189 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1121,81) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,189 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1214,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,189 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1394,25) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,189 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1715,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,189 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1724,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,190 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1732,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,190 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1737,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,190 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1742,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,190 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(1751,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,190 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2732,5) : warning CS0219: 变量“ownMinionsSumHp”已赋值，但其值从未使用过
+2020-05-23 05:50:44,191 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2163,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,191 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2412,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,191 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2429,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,191 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2434,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,192 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2450,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,192 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2466,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,192 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2483,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,192 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2492,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,193 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2544,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,193 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2550,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,193 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2620,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,194 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2626,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,194 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2660,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,194 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2671,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,194 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2803,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,195 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2812,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,195 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2846,1) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,195 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(3141,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,195 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(3287,21) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,196 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(3437,76) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,196 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(3517,55) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,197 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(3518,64) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,198 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs(1627,34) : warning CS0219: 变量“dontkill”已赋值，但其值从未使用过
+2020-05-23 05:50:44,198 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\RulesEngine.cs(1117,30) : warning CS0168: 声明了变量“ee”，但从未使用过
+2020-05-23 05:50:44,198 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\ai\Settings.cs(157,30) : warning CS0168: 声明了变量“e”，但从未使用过
+2020-05-23 05:50:44,199 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\behavior\control\Behavior控场模式.cs(365,13) : warning CS0162: 检测到无法访问的代码
+2020-05-23 05:50:44,199 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(7,56) : error CS1003: 语法错误，应输入“:”
+2020-05-23 05:50:44,199 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(7,58) : error CS1002: 应输入 ;
+2020-05-23 05:50:44,199 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(7,58) : error CS1525: 无效的表达式项“:”
+2020-05-23 05:50:44,200 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(7,60) : error CS1002: 应输入 ;
+2020-05-23 05:50:44,200 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(7,86) : error CS1002: 应输入 ;
+2020-05-23 05:50:44,251 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
+2020-05-23 05:50:44,252 [1] DEBUG Logger (null) - Current routine set to NullRoutine.
+2020-05-23 05:50:46,039 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\2.7\Release\Plugins\QuestPlus\QuestPlus.cs(16,7) : error CS0246: 未能找到类型或命名空间名称“HREngine”(是否缺少 using 指令或程序集引用?)
+2020-05-23 05:50:46,624 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-23 05:50:46,628 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-23 05:50:46,629 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-23 05:50:46,630 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-23 05:50:46,631 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-23 05:50:46,632 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-23 05:50:46,633 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-23 05:50:46,633 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-23 05:50:46,634 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-23 05:50:46,635 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-23 05:50:46,639 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-23 05:50:46,640 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-23 05:50:46,640 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-23 05:50:46,641 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-23 05:50:46,642 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-23 05:50:46,642 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-23 05:50:46,642 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-23 05:50:46,643 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-23 05:50:46,643 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-23 05:50:46,644 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-23 05:50:46,644 [8] DEBUG Logger (null) - [自动停止插件] 开启
+2020-05-23 05:50:46,649 [8] INFO  Logger (null) - [日常任务插件设置] 自动停止至所有日常任务完成 = True.
+2020-05-23 05:50:46,659 [8] DEBUG Logger (null) - [日常任务插件] 开启
+2020-05-23 05:50:46,663 [8] DEBUG Logger (null) - [统计插件] 初始化
+2020-05-23 05:50:46,759 [8] DEBUG Logger (null) - [统计插件] 启用
+2020-05-23 05:50:46,814 [8] INFO  Logger (null) - 
+Please read the following guide before using this program:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html

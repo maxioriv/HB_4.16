@@ -1,0 +1,122 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="440" d:DesignWidth="627">
+    <Grid x:Name="Root">
+        <ScrollViewer VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" Grid.Column="0" Content="Stop After All Quests Are Completed"  Margin="3,5,3,1" ToolTipService.ToolTip="Should the bot stop after all quests are done?"/>
+                    <CheckBox x:Name="StopAfterAllQuestsAreDoneCheckBox" Grid.Row="0" Grid.Column="1" Margin="3"/>
+				</Grid>
+				<Grid>
+					<Grid.RowDefinitions>
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+					</Grid.RowDefinitions>
+
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="Auto" />
+						<ColumnDefinition Width="Auto" />
+						<ColumnDefinition Width="Auto" />
+						<ColumnDefinition Width="Auto" />
+					</Grid.ColumnDefinitions>
+
+					<Label Grid.Row="0" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck1TextBox" Grid.Row="0" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="1" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck2TextBox" Grid.Row="1" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="2" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck3TextBox" Grid.Row="2" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="3" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck4TextBox" Grid.Row="3" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="4" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck5TextBox" Grid.Row="4" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="5" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck6TextBox" Grid.Row="5" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="6" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck7TextBox" Grid.Row="6" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="7" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck8TextBox" Grid.Row="7" Grid.Column="1" Margin="3"/>
+					
+					<Label Grid.Row="8" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck9TextBox" Grid.Row="8" Grid.Column="1" Margin="3"/>
+				</Grid>
+				<Grid>
+					<Grid.RowDefinitions>
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+						<RowDefinition Height="Auto" />
+					</Grid.RowDefinitions>
+
+					<Grid.ColumnDefinitions>
+						<ColumnDefinition Width="Auto" />
+						<ColumnDefinition Width="Auto" />
+						<ColumnDefinition Width="Auto" />
+						<ColumnDefinition Width="Auto" />
+					</Grid.ColumnDefinitions>
+
+					<Label Grid.Row="0" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck10TextBox" Grid.Row="0" Grid.Column="1" Margin="3"/>
+
+					<Label Grid.Row="1" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck11TextBox" Grid.Row="1" Grid.Column="1" Margin="3"/>
+
+					<Label Grid.Row="2" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck12TextBox" Grid.Row="2" Grid.Column="1" Margin="3"/>
+
+					<Label Grid.Row="3" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck13TextBox" Grid.Row="3" Grid.Column="1" Margin="3"/>
+
+					<Label Grid.Row="4" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck14TextBox" Grid.Row="4" Grid.Column="1" Margin="3"/>
+
+					<Label Grid.Row="5" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck15TextBox" Grid.Row="5" Grid.Column="1" Margin="3"/>
+
+					<Label Grid.Row="6" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck16TextBox" Grid.Row="6" Grid.Column="1" Margin="3"/>
+
+					<Label Grid.Row="7" Grid.Column="0" Content="Ignore Deck Name"  Margin="3,5,3,1" ToolTipService.ToolTip="A deck name to ignore for quests."/>
+					<TextBox x:Name="IgnoreDeck17TextBox" Grid.Row="7" Grid.Column="1" Margin="3"/>
+				</Grid>
+			</StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

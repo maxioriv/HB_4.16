@@ -1,0 +1,21 @@
+2021-04-02 07:50:40,413 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: D:\hb\maxiori_hb\卡卡2.8优化奥秘法\卡卡2.8\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.18363
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2021-04-02 07:50:40,489 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2021-04-02 07:50:40,491 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2021-04-02 07:50:40,492 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2021-04-02 07:50:40,493 [1] INFO  Logger (null) - Now checking prerequisites...
+2021-04-02 07:50:41,262 [1] INFO  Logger (null) - Prerequisite check complete!
+2021-04-02 07:50:42,011 [1] INFO  Logger (null) - Now relaunching.
+2021-04-02 07:50:42,466 [1] INFO  Logger (null) - [AuthRegion] China.
+2021-04-02 07:50:43,050 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2021-04-02 07:50:43,081 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2021-04-02 07:50:43,557 [1] INFO  Logger (null) - Region: cn
+2021-04-02 07:50:43,561 [1] INFO  Logger (null) - T: 5249215484862911458 严禁交易出售，免费使用！！！

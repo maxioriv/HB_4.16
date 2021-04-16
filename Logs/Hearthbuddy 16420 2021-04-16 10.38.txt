@@ -1,0 +1,21 @@
+2021-04-16 02:38:04,672 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\source\repos\HB\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.18363
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2021-04-16 02:38:04,778 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2021-04-16 02:38:04,790 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2021-04-16 02:38:04,791 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2021-04-16 02:38:04,792 [1] INFO  Logger (null) - Now checking prerequisites...
+2021-04-16 02:38:05,554 [1] INFO  Logger (null) - Prerequisite check complete!
+2021-04-16 02:38:05,997 [1] INFO  Logger (null) - Now relaunching.
+2021-04-16 02:38:08,488 [1] INFO  Logger (null) - [AuthRegion] China.
+2021-04-16 02:38:09,112 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2021-04-16 02:38:09,152 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2021-04-16 02:38:09,600 [1] INFO  Logger (null) - Region: cn
+2021-04-16 02:38:09,617 [1] INFO  Logger (null) - T: 5249227393323371950 严禁交易出售，免费使用！！！

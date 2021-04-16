@@ -1,0 +1,148 @@
+2020-05-23 03:06:47,059 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 企业版
+OS Version: 10.0.17134
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-23 03:06:47,099 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-23 03:06:47,099 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-23 03:06:47,099 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-23 03:06:47,100 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-23 03:06:47,492 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-23 03:06:47,602 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2020-05-23 03:06:47,610 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-23 03:06:47,622 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-23 03:06:47,830 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-23 03:06:47,839 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 1
+2020-05-23 03:06:47,871 [1] INFO  Logger (null) - Region: cn
+2020-05-23 03:06:47,873 [1] INFO  Logger (null) - T: 5248944018506097070 严禁交易出售，免费使用！！！
+2020-05-23 03:06:48,378 [8] INFO  Logger (null) - 现在使用 DX11...
+2020-05-23 03:06:53,457 [8] INFO  Logger (null) - 炉石传说的版本号为 (48705, 1574674)
+2020-05-23 03:06:53,505 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2020-05-23 03:06:53,616 [8] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-23 03:06:53,618 [8] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2020-05-23 03:06:53,619 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 03:06:53,620 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 03:06:53,620 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2020-05-23 03:06:53,621 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2020-05-23 03:06:53,621 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-23 03:06:53,622 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-23 03:06:53,622 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2020-05-23 03:06:53,623 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 03:06:53,623 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 03:06:53,623 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 03:06:53,624 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 03:06:53,624 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 03:06:53,625 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 03:06:53,625 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 03:06:53,626 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 03:06:53,627 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2020-05-23 03:06:53,628 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 03:06:53,629 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 03:06:53,629 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-23 03:06:53,630 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 03:06:53,631 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2020-05-23 03:06:53,632 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 03:06:53,632 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 03:06:53,633 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 03:06:53,645 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2020-05-23 03:06:53,646 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2020-05-23 03:06:53,647 [8] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-23 03:06:53,648 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = True.
+2020-05-23 03:06:53,648 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = True.
+2020-05-23 03:06:53,649 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 10000.
+2020-05-23 03:06:53,649 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 03:06:53,650 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 03:06:53,650 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 03:06:53,651 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 03:06:53,651 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 03:06:53,652 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 03:06:53,652 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 03:06:53,653 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 03:06:53,654 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 66.
+2020-05-23 03:06:53,654 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 03:06:53,655 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 03:06:53,657 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 随机模式.
+2020-05-23 03:06:53,658 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 03:06:53,659 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2020-05-23 03:06:53,659 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 03:06:53,660 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 03:06:53,660 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 03:06:53,661 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 03:06:53,661 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 03:06:53,740 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2020-05-23 03:06:53,743 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2020-05-23 03:06:59,419 [8] INFO  Logger (null) - 开始启动...
+2020-05-23 03:07:01,601 [8] ERROR AssemblyLoader`1 (null) - [Reload] An exception occurred.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at HREngine.Bots.CardDB..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1309
+   at HREngine.Bots.CardDB.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1216
+   at HREngine.Bots.Handmanager.Handcard..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Handmanager.cs:line 23
+   at HREngine.Bots.Minion..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Minion.cs:line 121
+   at HREngine.Bots.Hrtprozis..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 84
+   at HREngine.Bots.Hrtprozis.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 115
+   at HREngine.Bots.Playfield..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 60
+   at HREngine.Bots.Ai..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 21
+   at HREngine.Bots.Ai.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 59
+   at HREngine.Bots.Silverfish.setBehavior() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 174
+   at HREngine.Bots.Silverfish..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 134
+   at HREngine.Bots.Silverfish.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 111
+   at HREngine.Bots.DefaultRoutine..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 51
+   --- End of inner exception stack trace ---
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture)
+   at Triton.Common.TypeLoader`1.method_0(Assembly[] assembly_1) in E:\炉石\havetrynew\Triton\Common\TypeLoader!1.cs:line 34
+   at Triton.Common.TypeLoader`1.Reload() in E:\炉石\havetrynew\Triton\Common\TypeLoader!1.cs:line 50
+   at Triton.Common.TypeLoader`1..ctor(Assembly asm, Func`1 constructorArguments) in E:\炉石\havetrynew\Triton\Common\TypeLoader!1.cs:line 20
+   at Triton.Common.AssemblyLoader`1.Reload(String reason) in E:\炉石\havetrynew\Triton\Common\AssemblyLoader!1.cs:line 140
+2020-05-23 03:07:01,650 [8] INFO  Logger (null) - 开始启动...
+2020-05-23 03:07:03,770 [8] ERROR Logger (null) - [Load] An exception occurred: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at HREngine.Bots.CardDB..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1309
+   at HREngine.Bots.CardDB.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\CardDB.cs:line 1216
+   at HREngine.Bots.Handmanager.Handcard..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Handmanager.cs:line 23
+   at HREngine.Bots.Minion..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Minion.cs:line 121
+   at HREngine.Bots.Hrtprozis..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 84
+   at HREngine.Bots.Hrtprozis.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs:line 115
+   at HREngine.Bots.Playfield..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs:line 60
+   at HREngine.Bots.Ai..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 21
+   at HREngine.Bots.Ai.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\ai\Ai.cs:line 59
+   at HREngine.Bots.Silverfish.setBehavior() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 174
+   at HREngine.Bots.Silverfish..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 134
+   at HREngine.Bots.Silverfish.get_Instance() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\silverfish_HB.cs:line 111
+   at HREngine.Bots.DefaultRoutine..ctor() in c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\DefaultRoutine.cs:line 51
+   --- End of inner exception stack trace ---
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.RuntimeType.CreateInstanceImpl(BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture, Object[] activationAttributes)
+   at System.Activator.CreateInstance(Type type, BindingFlags bindingAttr, Binder binder, Object[] args, CultureInfo culture)
+   at Triton.Common.TypeLoader`1.method_0(Assembly[] assembly_1) in E:\炉石\havetrynew\Triton\Common\TypeLoader!1.cs:line 34
+   at Triton.Common.TypeLoader`1.Reload() in E:\炉石\havetrynew\Triton\Common\TypeLoader!1.cs:line 43
+   at Triton.Common.TypeLoader`1..ctor(Assembly asm, Func`1 constructorArguments) in E:\炉石\havetrynew\Triton\Common\TypeLoader!1.cs:line 20
+   at Triton.Common.AssemblyLoader`1.Reload(String reason) in E:\炉石\havetrynew\Triton\Common\AssemblyLoader!1.cs:line 113
+   at Triton.Common.AssemblyLoader`1..ctor(String directory, Boolean detectFileChanges) in E:\炉石\havetrynew\Triton\Common\AssemblyLoader!1.cs:line 74
+   at Triton.Bot.RoutineManager.Load() in E:\炉石\havetrynew\Triton\Bot\RoutineManager.cs:line 305.
+2020-05-23 03:07:03,772 [8] ERROR Logger (null) - [OnStartup] A top-level exception has been caught.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Hearthbuddy.Windows.MainWindow.method_26() in E:\炉石\havetrynew\Hearthbuddy\Windows\MainWindow.xaml.cs:line 896
+   at System.Windows.Threading.DispatcherOperation.InvokeDelegateCore()
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Windows.Threading.DispatcherOperation.Wait(TimeSpan timeout)
+   at System.Windows.Threading.Dispatcher.InvokeImpl(DispatcherOperation operation, CancellationToken cancellationToken, TimeSpan timeout)
+   at System.Windows.Threading.Dispatcher.Invoke(Action callback, DispatcherPriority priority, CancellationToken cancellationToken, TimeSpan timeout)
+   at System.Windows.Threading.Dispatcher.Invoke(Action callback)
+   at Hearthbuddy.Windows.MainWindow.method_21(Object object_0) in E:\炉石\havetrynew\Hearthbuddy\Windows\MainWindow.xaml.cs:line 783

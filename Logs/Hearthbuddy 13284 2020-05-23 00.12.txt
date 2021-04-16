@@ -1,0 +1,1873 @@
+2020-05-22 16:12:39,959 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 企业版
+OS Version: 10.0.17134
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-22 16:12:40,001 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-22 16:12:40,002 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-22 16:12:40,003 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-22 16:12:40,003 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-22 16:12:40,347 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-22 16:12:40,435 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2020-05-22 16:12:40,454 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-22 16:12:40,466 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-22 16:12:40,682 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-22 16:12:40,692 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 1
+2020-05-22 16:12:40,719 [1] INFO  Logger (null) - Region: cn
+2020-05-22 16:12:40,721 [1] INFO  Logger (null) - T: 5248943626034574618 严禁交易出售，免费使用！！！
+2020-05-22 16:12:41,119 [7] INFO  Logger (null) - 现在使用 DX11...
+2020-05-22 16:12:46,113 [7] INFO  Logger (null) - 炉石传说的版本号为 (48705, 1574674)
+2020-05-22 16:12:46,151 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2020-05-22 16:12:46,255 [7] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-22 16:12:46,258 [7] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2020-05-22 16:12:46,259 [7] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-22 16:12:46,260 [7] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-22 16:12:46,260 [7] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2020-05-22 16:12:46,261 [7] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2020-05-22 16:12:46,262 [7] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-22 16:12:46,263 [7] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-22 16:12:46,263 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2020-05-22 16:12:46,264 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-22 16:12:46,265 [7] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-22 16:12:46,266 [7] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-22 16:12:46,267 [7] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-22 16:12:46,267 [7] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-22 16:12:46,268 [7] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:12:46,269 [7] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-22 16:12:46,270 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-22 16:12:46,271 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2020-05-22 16:12:46,271 [7] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-22 16:12:46,272 [7] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-22 16:12:46,273 [7] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-22 16:12:46,274 [7] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-22 16:12:46,275 [7] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2020-05-22 16:12:46,276 [7] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-22 16:12:46,276 [7] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-22 16:12:46,277 [7] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-22 16:12:46,292 [7] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2020-05-22 16:12:46,293 [7] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2020-05-22 16:12:46,293 [7] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-22 16:12:46,293 [7] INFO  Logger (null) - [脚本设置] 延迟自投模式 = True.
+2020-05-22 16:12:46,294 [7] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = True.
+2020-05-22 16:12:46,294 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 10000.
+2020-05-22 16:12:46,295 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-22 16:12:46,295 [7] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-22 16:12:46,296 [7] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-22 16:12:46,296 [7] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-22 16:12:46,296 [7] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-22 16:12:46,297 [7] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:12:46,297 [7] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-22 16:12:46,298 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-22 16:12:46,299 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 66.
+2020-05-22 16:12:46,299 [7] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-22 16:12:46,300 [7] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-22 16:12:46,301 [7] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 随机模式.
+2020-05-22 16:12:46,302 [7] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-22 16:12:46,303 [7] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2020-05-22 16:12:46,304 [7] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-22 16:12:46,304 [7] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-22 16:12:46,305 [7] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-22 16:12:46,305 [7] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-22 16:12:46,306 [7] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-22 16:12:46,386 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2020-05-22 16:12:46,390 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2020-05-22 16:12:51,878 [7] INFO  Logger (null) - 开始启动...
+2020-05-22 16:12:54,183 [7] INFO  Logger (null) - CardList:6884
+2020-05-22 16:12:54,780 [7] INFO  Logger (null) - ----------------------------
+2020-05-22 16:12:54,781 [7] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2020-05-22 16:12:54,781 [7] INFO  Logger (null) - ----------------------------
+2020-05-22 16:12:54,835 [7] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2020-05-22 16:12:54,836 [7] INFO  Logger (null) - ----------------------------
+2020-05-22 16:12:54,842 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2020-05-22 16:12:54,842 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2020-05-22 16:12:54,843 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2020-05-22 16:12:54,844 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2020-05-22 16:12:54,845 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2020-05-22 16:12:54,846 [7] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = Control.
+2020-05-22 16:12:54,850 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2020-05-22 16:12:54,850 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2020-05-22 16:12:54,851 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2020-05-22 16:12:54,851 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2020-05-22 16:12:54,852 [7] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2020-05-22 16:12:54,853 [7] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = 控场模式.
+2020-05-22 16:12:55,536 [1] DEBUG Logger (null) - Current routine set to NullRoutine.
+2020-05-22 16:12:55,536 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
+2020-05-22 16:12:58,129 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-22 16:12:58,131 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-22 16:12:58,133 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-22 16:12:58,133 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-22 16:12:58,134 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-22 16:12:58,135 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-22 16:12:58,135 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-22 16:12:58,136 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-22 16:12:58,137 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-22 16:12:58,137 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-22 16:12:58,141 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-22 16:12:58,142 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-22 16:12:58,143 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-22 16:12:58,144 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-22 16:12:58,144 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-22 16:12:58,145 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-22 16:12:58,145 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-22 16:12:58,145 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-22 16:12:58,146 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-22 16:12:58,146 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-22 16:12:58,147 [7] DEBUG Logger (null) - [自动停止插件] 开启
+2020-05-22 16:12:58,151 [7] INFO  Logger (null) - [日常任务插件设置] 自动停止至所有日常任务完成 = True.
+2020-05-22 16:12:58,161 [7] DEBUG Logger (null) - [日常任务插件] 开启
+2020-05-22 16:12:58,169 [7] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2020-05-22 16:12:58,171 [7] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 休闲模式.
+2020-05-22 16:12:58,172 [7] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2020-05-22 16:12:58,174 [7] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2020-05-22 16:12:58,175 [7] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2020-05-22 16:12:58,176 [7] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = True.
+2020-05-22 16:12:58,177 [7] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = True.
+2020-05-22 16:12:58,177 [7] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2020-05-22 16:12:58,178 [7] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = True.
+2020-05-22 16:12:58,179 [7] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2020-05-22 16:12:58,179 [7] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2020-05-22 16:12:58,180 [7] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = False.
+2020-05-22 16:12:58,181 [7] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 60.
+2020-05-22 16:12:58,181 [7] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2020-05-22 16:12:58,182 [7] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2020-05-22 16:12:58,209 [7] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2020-05-22 16:12:58,210 [7] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 排位赛.
+2020-05-22 16:12:58,211 [7] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2020-05-22 16:12:58,212 [7] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2020-05-22 16:12:58,213 [7] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2020-05-22 16:12:58,213 [7] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = False.
+2020-05-22 16:12:58,214 [7] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = False.
+2020-05-22 16:12:58,214 [7] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2020-05-22 16:12:58,215 [7] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = False.
+2020-05-22 16:12:58,215 [7] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2020-05-22 16:12:58,215 [7] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2020-05-22 16:12:58,216 [7] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = True.
+2020-05-22 16:12:58,216 [7] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 10.
+2020-05-22 16:12:58,217 [7] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2020-05-22 16:12:58,217 [7] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2020-05-22 16:12:58,218 [7] DEBUG Logger (null) - [日常增强任务] 初始化
+2020-05-22 16:12:58,222 [7] DEBUG Logger (null) - [统计插件] 初始化
+2020-05-22 16:12:58,357 [7] DEBUG Logger (null) - [统计插件] 启用
+2020-05-22 16:12:58,448 [7] INFO  Logger (null) - 
+Please read the following guide before using this program:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html
+2020-05-22 16:12:58,450 [1] INFO  Logger (null) - [统计插件] 合计: 19 胜场/ 20 总场数(胜率:95.00 %)[14 投降数] 
+2020-05-22 16:13:00,562 [1] DEBUG Logger (null) - Current routine set to 策略.
+2020-05-22 16:13:07,550 [1] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = True.
+2020-05-22 16:13:11,366 [1] INFO  Logger (null) - [开始] 现在开始挂机.
+2020-05-22 16:13:11,438 [9] DEBUG Logger (null) - [统计插件] 开启
+2020-05-22 16:13:11,443 [9] INFO  Logger (null) - 读取战场设置 控场模式
+2020-05-22 16:13:11,445 [9] INFO  Logger (null) - 目前的AI值（alpha）是 0.5
+2020-05-22 16:13:11,445 [9] INFO  Logger (null) - 设置怼脸血线值为: 15
+2020-05-22 16:13:11,446 [9] INFO  Logger (null) - 设置武器怼脸血线值: 0
+2020-05-22 16:13:11,446 [9] INFO  Logger (null) - 设置AI值（maxwide）: 3000
+2020-05-22 16:13:11,447 [9] INFO  Logger (null) - 计算下个回合 0 线程
+2020-05-22 16:13:11,447 [9] INFO  Logger (null) - 开启防奥秘
+2020-05-22 16:13:11,447 [9] INFO  Logger (null) - 控场模式 配置文件读取成功.
+2020-05-22 16:13:11,448 [9] INFO  Logger (null) - [连招功能] 成功加载“连招” 控场模式
+2020-05-22 16:13:11,453 [9] INFO  Logger (null) - 加载“连招功能”文本 _combo.txt...
+2020-05-22 16:13:11,453 [9] INFO  Logger (null) - [连招功能] 0 “连招”功能激活成功, 0 个权重值已加载
+2020-05-22 16:13:11,482 [9] INFO  Logger (null) - [规则编辑器] 1 规则名 控场模式 读取成功
+2020-05-22 16:13:11,674 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:11,700 [9] INFO  Logger (null) - [对局准备] 点击“玩家对战模式”按钮.
+2020-05-22 16:13:12,365 [9] INFO  Logger (null) - [界面切换] 游戏界面切换中.
+2020-05-22 16:13:13,196 [9] INFO  Logger (null) - [界面切换] 游戏界面加载中.
+2020-05-22 16:13:14,394 [9] INFO  Logger (null) - [界面切换] 等待界面激活.
+2020-05-22 16:13:15,607 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:15,678 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:13:16,482 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:13:17,741 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:17,755 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:13:18,425 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:13:19,308 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:19,324 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:13:19,950 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:13:20,824 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:20,839 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:13:21,438 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:13:22,324 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:22,340 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:13:22,997 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:13:23,889 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:23,907 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:13:24,555 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:13:25,432 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:13:25,446 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:13:44,749 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:13:45,705 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:13:46,881 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:13:48,066 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:13:49,228 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:13:50,445 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:13:51,626 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:13:52,970 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:13:54,786 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:13:56,613 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:13:57,510 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:13:59,286 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:14:01,077 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:14:02,865 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:14:03,759 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:14:05,549 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:14:07,343 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:14:07,344 [9] INFO  Logger (null) - [开局留牌] 选牌时强制投降 = True. 现在尝试投降.
+2020-05-22 16:14:08,384 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:14:09,289 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:14:11,144 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:14:12,949 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:14:14,742 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:14:16,611 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:14:17,511 [1] INFO  Logger (null) - [统计插件] 合计: 19 胜场/ 21 总场数(胜率:90.48 %)[14 投降数] 
+2020-05-22 16:14:17,510 [9] INFO  Logger (null) - [游戏结束] Defeat => PLAY_GAME.
+2020-05-22 16:14:17,512 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:14:17,513 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:14:18,789 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:14:20,584 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:14:22,386 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:14:23,663 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:24,844 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:26,019 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:27,200 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:14:27,213 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:14:27,893 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:14:29,220 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:14:29,239 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:14:30,042 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:14:45,890 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:14:45,895 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:14:48,787 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:14:48,802 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:14:49,188 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:14:50,073 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:51,239 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:52,400 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:53,564 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:54,726 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:55,891 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:14:57,108 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:14:58,900 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:15:00,695 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:15:02,466 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:15:04,256 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:15:06,044 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:15:07,843 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:15:09,627 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:15:11,418 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:15:13,214 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:15:15,510 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 DRUID.
+2020-05-22 16:15:15,517 [9] INFO  Logger (null) - [开局留牌] 读取规则—— 控场模式
+2020-05-22 16:15:15,534 [9] INFO  Logger (null) - [开局留牌] 80 读取留牌规则成功
+2020-05-22 16:15:15,536 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:15:15,538 [9] INFO  Logger (null) - [开局留牌] 心灵咒术师 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:15:15,538 [9] INFO  Logger (null) - [开局留牌] 库尔提拉斯教士 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:15:15,539 [9] INFO  Logger (null) - [开局留牌] 深蓝系咒师 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:15:15,540 [9] INFO  Logger (null) - [开局留牌] 火树巫医 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2020-05-22 16:15:15,543 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 TRL_523 时间已经过去 0 毫秒.
+2020-05-22 16:15:15,543 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_193 时间已经过去 1673 毫秒.
+2020-05-22 16:15:15,791 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_195 时间已经过去 2692 毫秒.
+2020-05-22 16:15:16,059 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_075 时间已经过去 907 毫秒.
+2020-05-22 16:15:16,383 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_193.
+2020-05-22 16:15:16,789 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_195.
+2020-05-22 16:15:17,221 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_075.
+2020-05-22 16:15:17,655 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:15:17,656 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:15:18,993 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:15:29,464 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 20170 [10000 - 30000].
+2020-05-22 16:15:29,465 [9] INFO  Logger (null) - [正在对局] 需要等待 20168 毫秒后自动投降.
+2020-05-22 16:15:29,474 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:15:30,358 [9] INFO  Logger (null) - [正在对局] 需要等待 19275 毫秒后自动投降.
+2020-05-22 16:15:30,360 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:15:31,244 [9] INFO  Logger (null) - [正在对局] 需要等待 18389 毫秒后自动投降.
+2020-05-22 16:15:31,247 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:15:39,248 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:15:41,052 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:15:42,857 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:15:44,654 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:15:46,445 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:15:48,238 [1] INFO  Logger (null) - [统计插件] 合计: 20 胜场/ 22 总场数(胜率:90.91 %)[14 投降数] 
+2020-05-22 16:15:48,236 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:15:48,239 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:15:48,242 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:15:49,583 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:15:51,366 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:15:53,165 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:15:54,435 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:15:55,592 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:15:56,767 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:15:57,973 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:15:57,992 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:15:58,727 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:16:00,009 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:16:00,027 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:16:00,725 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:16:01,629 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:16:01,657 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:16:02,367 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:16:03,281 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:16:03,304 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:16:03,984 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:16:04,883 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:16:04,903 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:16:05,618 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:16:06,490 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:16:06,508 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:16:07,223 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:16:08,114 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:16:08,132 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:16:08,817 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:16:24,230 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:16:24,231 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:16:27,410 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:16:28,585 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:16:29,771 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:16:30,934 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:16:32,102 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:16:33,264 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:16:34,454 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:16:35,650 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:16:37,447 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:16:39,244 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:16:40,144 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:16:41,939 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:16:43,737 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:16:45,528 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:16:46,427 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:16:48,212 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:16:50,009 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:16:50,104 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 ROGUE.
+2020-05-22 16:16:50,105 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:16:50,114 [9] INFO  Logger (null) - [开局留牌] 大地之环先知 保留这些卡牌因为法力值消耗:3 小于预定值:4.
+2020-05-22 16:16:50,114 [9] INFO  Logger (null) - [开局留牌] 巫妖王 弃掉这些卡牌因为法力值消耗:8 没有小于预定值:4.
+2020-05-22 16:16:50,115 [9] INFO  Logger (null) - [开局留牌] 深蓝系咒师 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:16:50,115 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ICC_314 时间已经过去 1062 毫秒.
+2020-05-22 16:16:50,359 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_117 时间已经过去 0 毫秒.
+2020-05-22 16:16:50,360 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_075 时间已经过去 0 毫秒.
+2020-05-22 16:16:50,363 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ICC_314.
+2020-05-22 16:16:50,791 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_075.
+2020-05-22 16:16:51,225 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:16:51,225 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:16:52,586 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:16:54,368 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:16:56,164 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:16:57,953 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:17:04,347 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:17:04,348 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:17:05,245 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:17:07,051 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:17:08,844 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:17:10,635 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:17:12,425 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:17:13,332 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:17:13,333 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:17:13,333 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:17:13,335 [1] INFO  Logger (null) - [统计插件] 合计: 20 胜场/ 22 总场数(胜率:90.91 %)[15 投降数] 
+2020-05-22 16:17:14,619 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:17:16,415 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:17:18,208 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:17:19,477 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:20,637 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:21,909 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:23,095 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:17:23,109 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:17:23,753 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:17:25,075 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:17:25,088 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:17:25,760 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:17:26,637 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:17:26,649 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:17:27,319 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:17:28,196 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:17:28,208 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:17:28,853 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:17:29,733 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:17:29,750 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:17:30,358 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:17:31,238 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:17:31,251 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:17:50,003 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:17:50,919 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:52,108 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:53,270 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:54,458 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:55,621 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:56,783 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:17:57,986 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:17:59,761 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:18:01,555 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:18:03,353 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:18:05,149 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:18:06,936 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:18:08,741 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:18:09,628 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:18:11,429 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:18:13,301 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:18:13,410 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 ROGUE.
+2020-05-22 16:18:13,411 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:18:13,418 [9] INFO  Logger (null) - [开局留牌] 精神控制 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:18:13,419 [9] INFO  Logger (null) - [开局留牌] 火树巫医 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2020-05-22 16:18:13,420 [9] INFO  Logger (null) - [开局留牌] 大地之环先知 保留这些卡牌因为法力值消耗:3 小于预定值:4.
+2020-05-22 16:18:13,421 [9] INFO  Logger (null) - [开局留牌] 深蓝系咒师 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:18:13,421 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_075 时间已经过去 1576 毫秒.
+2020-05-22 16:18:13,664 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_117 时间已经过去 2423 毫秒.
+2020-05-22 16:18:13,963 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 TRL_523 时间已经过去 3444 毫秒.
+2020-05-22 16:18:14,263 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_113 时间已经过去 0 毫秒.
+2020-05-22 16:18:14,266 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_113.
+2020-05-22 16:18:14,695 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_075.
+2020-05-22 16:18:15,129 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:18:15,129 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:18:16,467 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:18:25,737 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 20637 [10000 - 30000].
+2020-05-22 16:18:25,737 [9] INFO  Logger (null) - [正在对局] 需要等待 20637 毫秒后自动投降.
+2020-05-22 16:18:25,740 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:18:27,809 [9] INFO  Logger (null) - [正在对局] 需要等待 18566 毫秒后自动投降.
+2020-05-22 16:18:27,817 [9] INFO  Logger (null) - [正在对局] 请稍候....
+2020-05-22 16:18:28,707 [9] INFO  Logger (null) - [正在对局] 需要等待 17667 毫秒后自动投降.
+2020-05-22 16:18:28,713 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:18:29,571 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:18:31,336 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:18:33,131 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:18:34,925 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:18:36,719 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:18:38,519 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:18:38,520 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:18:38,521 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:18:38,523 [1] INFO  Logger (null) - [统计插件] 合计: 21 胜场/ 23 总场数(胜率:91.30 %)[15 投降数] 
+2020-05-22 16:18:39,812 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:18:41,664 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:18:43,463 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:18:44,726 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:18:45,915 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:18:47,103 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:18:48,288 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:18:48,302 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:18:49,022 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:18:50,324 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:18:50,339 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:18:51,044 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:19:06,872 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:19:06,872 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:19:09,819 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:19:09,835 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:19:10,239 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:19:11,080 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:12,260 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:13,431 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:14,593 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:15,757 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:16,930 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:18,133 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:19:19,945 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:19:21,718 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:19:22,623 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:19:24,411 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:19:26,261 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:19:28,055 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:19:28,955 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:19:30,747 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:19:32,536 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:19:32,621 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 WARLOCK.
+2020-05-22 16:19:32,622 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:19:32,628 [9] INFO  Logger (null) - [开局留牌] 神圣惩击 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2020-05-22 16:19:32,629 [9] INFO  Logger (null) - [开局留牌] 大地之环先知 保留这些卡牌因为法力值消耗:3 小于预定值:4.
+2020-05-22 16:19:32,630 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_117 时间已经过去 3189 毫秒.
+2020-05-22 16:19:32,876 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_117 时间已经过去 3203 毫秒.
+2020-05-22 16:19:33,175 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_130 时间已经过去 0 毫秒.
+2020-05-22 16:19:33,181 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:19:33,182 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:19:34,508 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:19:39,680 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:19:39,681 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:19:40,580 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:19:42,378 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:19:44,177 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:19:45,970 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:19:47,764 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:19:48,661 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:19:48,661 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:19:48,662 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:19:48,665 [1] INFO  Logger (null) - [统计插件] 合计: 21 胜场/ 23 总场数(胜率:91.30 %)[16 投降数] 
+2020-05-22 16:19:49,948 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:19:51,751 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:19:53,526 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:19:54,800 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:55,981 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:57,139 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:19:58,325 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:19:58,340 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:19:59,050 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:20:00,350 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:20:00,365 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:20:01,067 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:20:16,898 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:20:16,899 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:20:19,961 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:20:19,980 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:20:20,375 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:20:21,243 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:20:22,411 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:20:23,587 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:20:24,751 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:20:25,914 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:20:27,083 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:20:28,279 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:20:30,100 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:20:31,880 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:20:33,688 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:20:35,490 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:20:37,249 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:20:39,067 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:20:39,953 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:20:41,747 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:20:43,539 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:20:43,651 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 HUNTER.
+2020-05-22 16:20:43,652 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:20:43,659 [9] INFO  Logger (null) - [开局留牌] 大地之环先知 保留这些卡牌因为法力值消耗:3 小于预定值:4.
+2020-05-22 16:20:43,660 [9] INFO  Logger (null) - [开局留牌] 森金持盾卫士 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:20:43,661 [9] INFO  Logger (null) - [开局留牌] 心灵咒术师 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:20:43,661 [9] INFO  Logger (null) - [开局留牌] 精神控制 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:20:43,662 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_113 时间已经过去 2422 毫秒.
+2020-05-22 16:20:43,905 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_117 时间已经过去 2183 毫秒.
+2020-05-22 16:20:44,203 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_179 时间已经过去 1903 毫秒.
+2020-05-22 16:20:44,505 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_193 时间已经过去 1820 毫秒.
+2020-05-22 16:20:44,806 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS2_179.
+2020-05-22 16:20:45,235 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_193.
+2020-05-22 16:20:45,667 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_113.
+2020-05-22 16:20:46,102 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:20:46,102 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:20:47,370 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:20:49,174 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:20:58,084 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 26346 [10000 - 30000].
+2020-05-22 16:20:58,084 [9] INFO  Logger (null) - [正在对局] 需要等待 26346 毫秒后自动投降.
+2020-05-22 16:20:58,087 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:20:58,985 [9] INFO  Logger (null) - [正在对局] 需要等待 25445 毫秒后自动投降.
+2020-05-22 16:20:58,987 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:20:59,886 [9] INFO  Logger (null) - [正在对局] 需要等待 24544 毫秒后自动投降.
+2020-05-22 16:20:59,889 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:21:00,784 [9] INFO  Logger (null) - [正在对局] 需要等待 23646 毫秒后自动投降.
+2020-05-22 16:21:00,788 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:21:01,681 [9] INFO  Logger (null) - [正在对局] 需要等待 22749 毫秒后自动投降.
+2020-05-22 16:21:01,684 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:21:02,569 [9] INFO  Logger (null) - [正在对局] 需要等待 21861 毫秒后自动投降.
+2020-05-22 16:21:02,572 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:21:03,457 [9] INFO  Logger (null) - [正在对局] 需要等待 20973 毫秒后自动投降.
+2020-05-22 16:21:03,460 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:21:04,355 [9] INFO  Logger (null) - [正在对局] 需要等待 20075 毫秒后自动投降.
+2020-05-22 16:21:04,359 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:21:10,047 [9] INFO  Logger (null) - [正在对局] 需要等待 14383 毫秒后自动投降.
+2020-05-22 16:21:10,051 [9] INFO  Logger (null) - [正在对局] 请稍候....
+2020-05-22 16:21:10,944 [9] INFO  Logger (null) - [正在对局] 需要等待 13486 毫秒后自动投降.
+2020-05-22 16:21:10,951 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:21:11,857 [9] INFO  Logger (null) - [正在对局] 需要等待 12573 毫秒后自动投降.
+2020-05-22 16:21:11,861 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:21:12,778 [9] INFO  Logger (null) - [正在对局] 需要等待 11652 毫秒后自动投降.
+2020-05-22 16:21:12,783 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:21:13,673 [9] INFO  Logger (null) - [正在对局] 需要等待 10757 毫秒后自动投降.
+2020-05-22 16:21:13,678 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:21:14,572 [9] INFO  Logger (null) - [正在对局] 需要等待 9858 毫秒后自动投降.
+2020-05-22 16:21:15,067 [9] INFO  Logger (null) - AI计算中，请稍候... 00:21:15.0676
+2020-05-22 16:21:15,509 [9] INFO  Logger (null) - 计算完成! 00:21:15.5094
+2020-05-22 16:21:15,510 [9] INFO  Logger (null) - 开始行动
+2020-05-22 16:21:15,528 [9] INFO  Logger (null) - 使用: 幸运币 (68) 暂时没有目标
+2020-05-22 16:21:16,502 [9] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 7 毫秒.
+2020-05-22 16:21:19,530 [9] INFO  Logger (null) - [正在对局] 需要等待 4900 毫秒后自动投降.
+2020-05-22 16:21:19,864 [9] INFO  Logger (null) - AI计算中，请稍候... 00:21:19.8641
+2020-05-22 16:21:19,938 [9] INFO  Logger (null) - 计算完成! 00:21:19.9385
+2020-05-22 16:21:19,939 [9] INFO  Logger (null) - 开始行动
+2020-05-22 16:21:19,954 [9] INFO  Logger (null) - 使用: 火树巫医 (24) 暂时没有目标
+2020-05-22 16:21:20,771 [9] INFO  Logger (null) - [挑选卡牌] 挑选卡牌用时 2 毫秒.
+2020-05-22 16:21:20,775 [9] INFO  Logger (null) - [使用卡牌] 1
+2020-05-22 16:21:23,792 [9] INFO  Logger (null) - [正在对局] 需要等待 637 毫秒后自动投降.
+2020-05-22 16:21:24,146 [9] INFO  Logger (null) - AI计算中，请稍候... 00:21:24.1463
+2020-05-22 16:21:24,220 [9] INFO  Logger (null) - 计算完成! 00:21:24.2203
+2020-05-22 16:21:24,220 [9] INFO  Logger (null) - 回合结束
+2020-05-22 16:21:29,337 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:21:29,337 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:21:30,260 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:21:32,034 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:21:33,832 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:21:35,628 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:21:37,420 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:21:38,321 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:21:38,321 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:21:38,322 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:21:38,325 [1] INFO  Logger (null) - [统计插件] 合计: 21 胜场/ 23 总场数(胜率:91.30 %)[17 投降数] 
+2020-05-22 16:21:39,615 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:21:41,411 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:21:43,199 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:21:44,466 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:21:45,626 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:21:46,790 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:21:47,975 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:21:47,989 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:21:48,701 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:21:50,004 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:21:50,019 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:21:50,687 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:21:51,568 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:21:51,582 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:21:52,252 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:21:53,131 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:21:53,147 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:21:53,820 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:21:54,700 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:21:54,715 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:21:55,415 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:21:56,291 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:21:56,303 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:21:57,064 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:22:12,473 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:22:12,474 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:22:15,534 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:22:16,699 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:22:17,867 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:22:19,029 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:22:20,193 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:22:21,355 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:22:22,521 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:22:23,723 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:22:25,517 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:22:27,309 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:22:29,095 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:22:30,884 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:22:32,691 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:22:34,479 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:22:35,376 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:22:37,171 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:22:38,983 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:22:39,089 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 MAGE.
+2020-05-22 16:22:39,090 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:22:39,097 [9] INFO  Logger (null) - [开局留牌] 治疗之环 保留这些卡牌因为法力值消耗:0 小于预定值:4.
+2020-05-22 16:22:39,098 [9] INFO  Logger (null) - [开局留牌] 八爪巨怪 弃掉这些卡牌因为法力值消耗:8 没有小于预定值:4.
+2020-05-22 16:22:39,099 [9] INFO  Logger (null) - [开局留牌] 雏龙巨婴 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:22:39,099 [9] INFO  Logger (null) - [开局留牌] 深蓝系咒师 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:22:39,100 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_075 时间已经过去 2698 毫秒.
+2020-05-22 16:22:39,343 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_054 时间已经过去 1949 毫秒.
+2020-05-22 16:22:39,642 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_621 时间已经过去 2625 毫秒.
+2020-05-22 16:22:39,942 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ULD_177 时间已经过去 2464 毫秒.
+2020-05-22 16:22:40,244 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ULD_177.
+2020-05-22 16:22:40,673 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_054.
+2020-05-22 16:22:41,104 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_075.
+2020-05-22 16:22:41,540 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:22:41,541 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:22:42,863 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:22:54,524 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 21841 [10000 - 30000].
+2020-05-22 16:22:54,525 [9] INFO  Logger (null) - [正在对局] 需要等待 21841 毫秒后自动投降.
+2020-05-22 16:22:54,529 [9] INFO  Logger (null) - [正在对局] 请稍候....
+2020-05-22 16:22:55,420 [9] INFO  Logger (null) - [正在对局] 需要等待 20946 毫秒后自动投降.
+2020-05-22 16:22:55,425 [9] INFO  Logger (null) - [正在对局] 请稍候....
+2020-05-22 16:22:56,332 [9] INFO  Logger (null) - [正在对局] 需要等待 20034 毫秒后自动投降.
+2020-05-22 16:22:56,336 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:22:57,202 [9] INFO  Logger (null) - [正在对局] 需要等待 19165 毫秒后自动投降.
+2020-05-22 16:22:57,206 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:22:58,094 [9] INFO  Logger (null) - [正在对局] 需要等待 18272 毫秒后自动投降.
+2020-05-22 16:22:58,098 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:22:58,995 [9] INFO  Logger (null) - [正在对局] 需要等待 17371 毫秒后自动投降.
+2020-05-22 16:22:59,000 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:22:59,906 [9] INFO  Logger (null) - [正在对局] 需要等待 16459 毫秒后自动投降.
+2020-05-22 16:23:00,204 [9] INFO  Logger (null) - AI计算中，请稍候... 00:23:00.2042
+2020-05-22 16:23:00,410 [9] INFO  Logger (null) - 计算完成! 00:23:00.4106
+2020-05-22 16:23:00,410 [9] INFO  Logger (null) - 回合结束
+2020-05-22 16:23:04,576 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:06,376 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:08,172 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:09,969 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:11,758 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:12,636 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:23:12,637 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:23:12,638 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:23:12,642 [1] INFO  Logger (null) - [统计插件] 合计: 22 胜场/ 24 总场数(胜率:91.67 %)[17 投降数] 
+2020-05-22 16:23:13,934 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:15,724 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:17,526 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:23:18,818 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:20,613 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:23:22,409 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:23:23,679 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:24,931 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:26,099 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:27,306 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:23:27,323 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:23:28,002 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:23:29,310 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:23:29,325 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:23:29,993 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:23:30,873 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:23:30,889 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:23:31,591 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:23:47,419 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:23:47,420 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:23:50,435 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:23:50,450 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:23:50,804 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:23:51,656 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:52,846 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:54,010 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:55,173 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:56,328 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:57,498 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:23:58,719 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:24:00,518 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:24:02,315 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:24:04,079 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:24:04,967 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:24:06,770 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:24:08,566 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:24:10,347 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:24:11,244 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:24:13,033 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:24:14,824 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:24:14,906 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 DRUID.
+2020-05-22 16:24:14,907 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:24:14,914 [9] INFO  Logger (null) - [开局留牌] 神圣新星 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:24:14,914 [9] INFO  Logger (null) - [开局留牌] 火树巫医 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2020-05-22 16:24:14,915 [9] INFO  Logger (null) - [开局留牌] 骨魇 弃掉这些卡牌因为法力值消耗:8 没有小于预定值:4.
+2020-05-22 16:24:14,916 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 TRL_523 时间已经过去 0 毫秒.
+2020-05-22 16:24:14,916 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_112 时间已经过去 1173 毫秒.
+2020-05-22 16:24:15,162 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ICC_705 时间已经过去 2681 毫秒.
+2020-05-22 16:24:15,465 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_112.
+2020-05-22 16:24:15,894 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ICC_705.
+2020-05-22 16:24:16,336 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:24:16,337 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:24:17,664 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:24:25,497 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:24:25,497 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:24:26,404 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:24:28,195 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:24:29,986 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:24:31,784 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:24:33,575 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:24:34,474 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:24:34,475 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:24:34,475 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:24:34,480 [1] INFO  Logger (null) - [统计插件] 合计: 22 胜场/ 24 总场数(胜率:91.67 %)[18 投降数] 
+2020-05-22 16:24:35,774 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:24:37,556 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:24:39,355 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:24:40,626 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:24:41,788 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:24:42,970 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:24:44,151 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:24:44,166 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:24:44,879 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:24:46,205 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:24:46,223 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:24:46,895 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:24:47,778 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:24:47,793 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:24:48,493 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:24:49,374 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:24:49,390 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:24:50,145 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:24:51,040 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:24:51,053 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:24:51,753 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:24:52,635 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:24:52,648 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:25:11,620 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:25:12,469 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:25:13,638 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:25:14,801 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:25:15,963 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:25:17,128 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:25:18,309 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:25:19,531 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:25:21,329 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:25:23,120 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:25:24,024 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:25,806 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:27,607 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:29,400 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:30,299 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:25:32,089 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:25:33,884 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:25:33,995 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 14.
+2020-05-22 16:25:33,996 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:25:34,003 [9] INFO  Logger (null) - [开局留牌] 骨魇 弃掉这些卡牌因为法力值消耗:8 没有小于预定值:4.
+2020-05-22 16:25:34,003 [9] INFO  Logger (null) - [开局留牌] 火树巫医 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2020-05-22 16:25:34,004 [9] INFO  Logger (null) - [开局留牌] 神圣新星 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:25:34,005 [9] INFO  Logger (null) - [开局留牌] 大地之环先知 保留这些卡牌因为法力值消耗:3 小于预定值:4.
+2020-05-22 16:25:34,005 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 TRL_523 时间已经过去 0 毫秒.
+2020-05-22 16:25:34,006 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ICC_705 时间已经过去 3034 毫秒.
+2020-05-22 16:25:34,249 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_117 时间已经过去 0 毫秒.
+2020-05-22 16:25:34,249 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_112 时间已经过去 977 毫秒.
+2020-05-22 16:25:34,550 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ICC_705.
+2020-05-22 16:25:34,981 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_112.
+2020-05-22 16:25:35,416 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:25:35,416 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:25:36,752 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:38,544 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:40,334 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:42,130 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:43,919 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:45,711 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:47,510 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:49,303 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:51,101 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:52,891 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:54,685 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:56,467 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:25:58,239 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:00,036 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:01,831 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:03,622 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:05,422 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:07,220 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:09,006 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:10,805 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:12,588 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:14,393 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:16,150 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:17,948 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:19,742 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:21,550 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:23,330 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:25,124 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:26,918 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:26:34,911 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 20548 [10000 - 30000].
+2020-05-22 16:26:34,912 [9] INFO  Logger (null) - [正在对局] 需要等待 20548 毫秒后自动投降.
+2020-05-22 16:26:34,914 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:35,806 [9] INFO  Logger (null) - [正在对局] 需要等待 19654 毫秒后自动投降.
+2020-05-22 16:26:35,809 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:36,709 [9] INFO  Logger (null) - [正在对局] 需要等待 18751 毫秒后自动投降.
+2020-05-22 16:26:36,712 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:37,606 [9] INFO  Logger (null) - [正在对局] 需要等待 17854 毫秒后自动投降.
+2020-05-22 16:26:37,609 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:38,500 [9] INFO  Logger (null) - [正在对局] 需要等待 16960 毫秒后自动投降.
+2020-05-22 16:26:38,502 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:39,397 [9] INFO  Logger (null) - [正在对局] 需要等待 16063 毫秒后自动投降.
+2020-05-22 16:26:39,399 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:40,296 [9] INFO  Logger (null) - [正在对局] 需要等待 15164 毫秒后自动投降.
+2020-05-22 16:26:40,298 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:41,202 [9] INFO  Logger (null) - [正在对局] 需要等待 14258 毫秒后自动投降.
+2020-05-22 16:26:41,208 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:42,095 [9] INFO  Logger (null) - [正在对局] 需要等待 13365 毫秒后自动投降.
+2020-05-22 16:26:42,098 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:42,991 [9] INFO  Logger (null) - [正在对局] 需要等待 12469 毫秒后自动投降.
+2020-05-22 16:26:42,993 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:43,912 [9] INFO  Logger (null) - [正在对局] 需要等待 11548 毫秒后自动投降.
+2020-05-22 16:26:43,915 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:44,790 [9] INFO  Logger (null) - [正在对局] 需要等待 10671 毫秒后自动投降.
+2020-05-22 16:26:44,792 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:45,680 [9] INFO  Logger (null) - [正在对局] 需要等待 9779 毫秒后自动投降.
+2020-05-22 16:26:45,683 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:46,576 [9] INFO  Logger (null) - [正在对局] 需要等待 8884 毫秒后自动投降.
+2020-05-22 16:26:46,579 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:47,477 [9] INFO  Logger (null) - [正在对局] 需要等待 7983 毫秒后自动投降.
+2020-05-22 16:26:47,480 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:48,381 [9] INFO  Logger (null) - [正在对局] 需要等待 7079 毫秒后自动投降.
+2020-05-22 16:26:48,384 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:49,280 [9] INFO  Logger (null) - [正在对局] 需要等待 6179 毫秒后自动投降.
+2020-05-22 16:26:49,283 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:50,162 [9] INFO  Logger (null) - [正在对局] 需要等待 5298 毫秒后自动投降.
+2020-05-22 16:26:50,165 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:51,078 [9] INFO  Logger (null) - [正在对局] 需要等待 4381 毫秒后自动投降.
+2020-05-22 16:26:51,081 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:26:57,764 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:26:57,764 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:26:58,665 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:27:00,447 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:27:02,254 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:27:04,042 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:27:05,806 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:27:06,713 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:27:06,713 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:27:06,714 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:27:06,720 [1] INFO  Logger (null) - [统计插件] 合计: 22 胜场/ 24 总场数(胜率:91.67 %)[19 投降数] 
+2020-05-22 16:27:08,002 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:27:09,797 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:27:11,581 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:27:12,843 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:14,031 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:15,212 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:16,397 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:27:16,413 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:27:17,126 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:27:18,421 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:27:18,436 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:27:19,112 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:27:19,993 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:27:20,009 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:27:20,680 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:27:21,563 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:27:21,576 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:27:22,217 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:27:23,097 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:27:23,112 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:27:23,816 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:27:39,225 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:27:39,225 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:27:42,365 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:43,533 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:44,696 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:45,854 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:47,017 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:48,180 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:49,342 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:50,682 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:27:51,889 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:27:53,684 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:27:55,460 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:27:56,340 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:27:58,138 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:27:59,946 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:28:01,750 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:28:02,631 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:28:04,424 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:28:06,237 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:28:06,322 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 14.
+2020-05-22 16:28:06,323 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:28:06,330 [9] INFO  Logger (null) - [开局留牌] 库尔提拉斯教士 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:28:06,330 [9] INFO  Logger (null) - [开局留牌] 荆棘帮箭猪 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:28:06,331 [9] INFO  Logger (null) - [开局留牌] 治疗之环 保留这些卡牌因为法力值消耗:0 小于预定值:4.
+2020-05-22 16:28:06,332 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_195 时间已经过去 1002 毫秒.
+2020-05-22 16:28:06,576 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_621 时间已经过去 0 毫秒.
+2020-05-22 16:28:06,577 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DAL_040 时间已经过去 0 毫秒.
+2020-05-22 16:28:06,579 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_195.
+2020-05-22 16:28:07,008 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DAL_040.
+2020-05-22 16:28:07,443 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:28:07,444 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:28:08,774 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:28:10,566 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:28:12,366 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:28:14,159 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:28:16,037 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:28:20,437 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 21273 [10000 - 30000].
+2020-05-22 16:28:20,438 [9] INFO  Logger (null) - [正在对局] 需要等待 21273 毫秒后自动投降.
+2020-05-22 16:28:20,442 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:28:21,334 [9] INFO  Logger (null) - [正在对局] 需要等待 20377 毫秒后自动投降.
+2020-05-22 16:28:21,338 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:28:22,234 [9] INFO  Logger (null) - [正在对局] 需要等待 19476 毫秒后自动投降.
+2020-05-22 16:28:22,239 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:28:23,121 [9] INFO  Logger (null) - [正在对局] 需要等待 18589 毫秒后自动投降.
+2020-05-22 16:28:23,125 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:28:24,024 [9] INFO  Logger (null) - [正在对局] 需要等待 17686 毫秒后自动投降.
+2020-05-22 16:28:24,323 [9] INFO  Logger (null) - AI计算中，请稍候... 00:28:24.3235
+2020-05-22 16:28:24,497 [9] INFO  Logger (null) - 计算完成! 00:28:24.4970
+2020-05-22 16:28:24,498 [9] INFO  Logger (null) - 回合结束
+2020-05-22 16:28:28,698 [9] INFO  Logger (null) - [正在对局] 需要等待 13012 毫秒后自动投降.
+2020-05-22 16:28:28,701 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:28:29,604 [9] INFO  Logger (null) - [正在对局] 需要等待 12106 毫秒后自动投降.
+2020-05-22 16:28:29,606 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:28:30,504 [9] INFO  Logger (null) - [正在对局] 需要等待 11207 毫秒后自动投降.
+2020-05-22 16:28:30,506 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:28:31,392 [9] INFO  Logger (null) - [正在对局] 需要等待 10318 毫秒后自动投降.
+2020-05-22 16:28:31,394 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:28:32,298 [9] INFO  Logger (null) - [正在对局] 需要等待 9413 毫秒后自动投降.
+2020-05-22 16:28:32,301 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:28:33,188 [9] INFO  Logger (null) - [正在对局] 需要等待 8523 毫秒后自动投降.
+2020-05-22 16:28:33,190 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:28:34,108 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:28:35,887 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:28:37,684 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:28:39,467 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:28:41,255 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:28:43,051 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:28:43,052 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:28:43,052 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:28:43,059 [1] INFO  Logger (null) - [统计插件] 合计: 23 胜场/ 25 总场数(胜率:92.00 %)[19 投降数] 
+2020-05-22 16:28:44,344 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:28:46,148 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:28:47,949 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:28:49,228 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:28:50,389 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:28:51,582 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:28:52,790 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:28:52,809 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:28:53,532 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:28:54,853 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:28:54,866 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:28:55,578 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:28:56,472 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:28:56,490 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:28:57,200 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:28:58,092 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:28:58,110 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:28:58,788 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:28:59,671 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:28:59,687 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:29:00,392 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:29:01,314 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:29:01,338 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:29:02,062 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:29:02,951 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:29:02,967 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:29:03,671 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:29:19,498 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:29:19,499 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:29:22,181 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:29:22,201 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:29:22,629 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:29:23,486 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:29:24,671 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:29:25,829 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:29:26,992 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:29:28,155 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:29:29,318 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:29:30,503 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:29:31,698 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:29:33,507 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:29:35,292 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:29:36,189 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:29:37,994 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:29:39,783 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:29:41,636 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:29:42,536 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:29:44,328 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:29:46,121 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:29:46,203 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 14.
+2020-05-22 16:29:46,204 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:29:46,211 [9] INFO  Logger (null) - [开局留牌] 白骨幼龙 弃掉这些卡牌因为法力值消耗:6 没有小于预定值:4.
+2020-05-22 16:29:46,212 [9] INFO  Logger (null) - [开局留牌] 真言术：盾 保留这些卡牌因为法力值消耗:0 小于预定值:4.
+2020-05-22 16:29:46,212 [9] INFO  Logger (null) - [开局留牌] 雏龙巨婴 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:29:46,213 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ICC_027 时间已经过去 1426 毫秒.
+2020-05-22 16:29:46,457 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_004 时间已经过去 0 毫秒.
+2020-05-22 16:29:46,458 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_054 时间已经过去 1673 毫秒.
+2020-05-22 16:29:46,760 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ICC_027.
+2020-05-22 16:29:47,188 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_054.
+2020-05-22 16:29:47,623 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:29:47,624 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:29:48,956 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:30:03,699 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:30:03,700 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:30:04,598 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:30:06,391 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:30:08,209 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:30:09,988 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:30:11,781 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:30:12,679 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:30:12,679 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:30:12,680 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:30:12,688 [1] INFO  Logger (null) - [统计插件] 合计: 23 胜场/ 25 总场数(胜率:92.00 %)[20 投降数] 
+2020-05-22 16:30:13,966 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:30:15,761 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:30:17,558 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:30:18,828 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:19,989 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:21,172 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:22,355 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:30:22,368 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:30:23,138 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:30:24,442 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:30:24,458 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:30:25,159 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:30:40,566 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:30:40,567 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:30:43,787 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:44,952 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:46,117 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:47,281 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:48,448 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:49,636 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:50,800 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:30:52,005 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:30:53,797 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:30:55,595 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:30:57,402 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:30:59,200 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:31:00,992 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:31:02,787 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:31:03,685 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:31:05,481 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:31:07,274 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:31:07,357 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 HUNTER.
+2020-05-22 16:31:07,358 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:31:07,366 [9] INFO  Logger (null) - [开局留牌] 心灵咒术师 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:31:07,367 [9] INFO  Logger (null) - [开局留牌] 暗言术：灭 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2020-05-22 16:31:07,368 [9] INFO  Logger (null) - [开局留牌] 库尔提拉斯教士 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:31:07,368 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_193 时间已经过去 869 毫秒.
+2020-05-22 16:31:07,613 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_622 时间已经过去 3566 毫秒.
+2020-05-22 16:31:07,912 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_195 时间已经过去 2457 毫秒.
+2020-05-22 16:31:08,213 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_193.
+2020-05-22 16:31:08,643 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_195.
+2020-05-22 16:31:09,078 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:31:09,079 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:31:10,510 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:31:17,335 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 10151 [10000 - 30000].
+2020-05-22 16:31:17,336 [9] INFO  Logger (null) - [正在对局] 需要等待 10151 毫秒后自动投降.
+2020-05-22 16:31:17,341 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:31:18,222 [9] INFO  Logger (null) - [正在对局] 需要等待 9266 毫秒后自动投降.
+2020-05-22 16:31:18,227 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:31:19,119 [9] INFO  Logger (null) - [正在对局] 需要等待 8368 毫秒后自动投降.
+2020-05-22 16:31:19,124 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:31:20,044 [9] INFO  Logger (null) - [正在对局] 需要等待 7444 毫秒后自动投降.
+2020-05-22 16:31:20,049 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:31:20,941 [9] INFO  Logger (null) - [正在对局] 需要等待 6546 毫秒后自动投降.
+2020-05-22 16:31:21,236 [9] INFO  Logger (null) - AI计算中，请稍候... 00:31:21.2367
+2020-05-22 16:31:21,379 [9] INFO  Logger (null) - 计算完成! 00:31:21.3793
+2020-05-22 16:31:21,380 [9] INFO  Logger (null) - 回合结束
+2020-05-22 16:31:25,565 [9] INFO  Logger (null) - [正在对局] 需要等待 1922 毫秒后自动投降.
+2020-05-22 16:31:25,568 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:31:26,466 [9] INFO  Logger (null) - [正在对局] 需要等待 1022 毫秒后自动投降.
+2020-05-22 16:31:26,469 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:31:27,359 [9] INFO  Logger (null) - [正在对局] 需要等待 128 毫秒后自动投降.
+2020-05-22 16:31:27,362 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:31:29,298 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:31:29,298 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:31:30,199 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:31:31,991 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:31:33,786 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:31:35,577 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:31:37,369 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:31:38,277 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:31:38,277 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:31:38,278 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:31:38,285 [1] INFO  Logger (null) - [统计插件] 合计: 23 胜场/ 25 总场数(胜率:92.00 %)[21 投降数] 
+2020-05-22 16:31:39,570 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:31:41,354 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:31:43,158 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:31:44,424 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:31:45,604 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:31:46,793 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:31:47,977 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:47,993 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:31:48,704 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:31:50,010 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:50,026 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:31:50,729 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:31:51,670 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:51,686 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:31:52,392 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:31:53,277 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:53,293 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:31:53,990 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:31:54,874 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:54,889 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:31:55,594 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:31:56,493 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:56,510 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:31:57,178 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:31:58,065 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:58,086 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:31:58,784 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:31:59,662 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:31:59,675 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:32:19,421 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:32:22,707 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:32:23,870 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:32:25,127 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:32:26,333 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:32:28,127 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:32:29,924 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:32:31,702 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:32:33,501 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:32:35,300 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:32:37,110 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:32:37,995 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:32:39,799 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:32:41,593 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:32:41,705 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 ROGUE.
+2020-05-22 16:32:41,706 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:32:41,713 [9] INFO  Logger (null) - [开局留牌] 光耀之子 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:32:41,714 [9] INFO  Logger (null) - [开局留牌] 神圣惩击 保留这些卡牌因为法力值消耗:1 小于预定值:4.
+2020-05-22 16:32:41,715 [9] INFO  Logger (null) - [开局留牌] 森金持盾卫士 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:32:41,715 [9] INFO  Logger (null) - [开局留牌] 深蓝系咒师 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:32:41,716 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_335 时间已经过去 0 毫秒.
+2020-05-22 16:32:41,716 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_075 时间已经过去 2148 毫秒.
+2020-05-22 16:32:41,960 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_179 时间已经过去 3246 毫秒.
+2020-05-22 16:32:42,259 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_130 时间已经过去 3122 毫秒.
+2020-05-22 16:32:42,560 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_335.
+2020-05-22 16:32:43,081 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS2_179.
+2020-05-22 16:32:43,483 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_075.
+2020-05-22 16:32:43,919 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:32:43,920 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:32:45,269 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:32:47,349 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:32:49,143 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:32:57,147 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 12229 [10000 - 30000].
+2020-05-22 16:32:57,147 [9] INFO  Logger (null) - [正在对局] 需要等待 12229 毫秒后自动投降.
+2020-05-22 16:32:57,149 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:32:58,048 [9] INFO  Logger (null) - [正在对局] 需要等待 11328 毫秒后自动投降.
+2020-05-22 16:32:58,051 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:32:58,946 [9] INFO  Logger (null) - [正在对局] 需要等待 10431 毫秒后自动投降.
+2020-05-22 16:32:58,949 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:32:59,859 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:33:01,653 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:33:03,458 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:33:05,252 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:33:07,040 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:33:08,831 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:33:08,832 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:33:08,833 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:33:08,840 [1] INFO  Logger (null) - [统计插件] 合计: 24 胜场/ 26 总场数(胜率:92.31 %)[21 投降数] 
+2020-05-22 16:33:10,126 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:33:11,921 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:33:13,720 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:33:14,984 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:16,170 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:17,383 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:18,568 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:33:18,579 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:33:19,295 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:33:20,599 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:33:20,613 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:33:21,315 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:33:22,193 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:33:22,208 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:33:22,874 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:33:23,752 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:33:23,766 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:33:24,439 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:33:25,319 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:33:25,332 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:33:26,025 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:33:26,910 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:33:26,923 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:33:27,625 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:33:43,457 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:33:43,457 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:33:46,288 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:33:46,301 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:33:46,686 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:33:47,509 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:48,682 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:49,848 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:51,033 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:52,196 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:53,382 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:54,555 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:33:55,754 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:33:57,547 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:33:59,348 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:34:00,251 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:34:02,039 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:34:03,838 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:34:05,627 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:34:06,523 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:34:08,318 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:34:10,115 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:34:10,220 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 MAGE.
+2020-05-22 16:34:10,221 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:34:10,228 [9] INFO  Logger (null) - [开局留牌] 深蓝系咒师 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:34:10,229 [9] INFO  Logger (null) - [开局留牌] 骨魇 弃掉这些卡牌因为法力值消耗:8 没有小于预定值:4.
+2020-05-22 16:34:10,229 [9] INFO  Logger (null) - [开局留牌] 神圣新星 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:34:10,230 [9] INFO  Logger (null) - [开局留牌] 森金持盾卫士 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:34:10,231 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_179 时间已经过去 998 毫秒.
+2020-05-22 16:34:10,445 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_112 时间已经过去 0 毫秒.
+2020-05-22 16:34:10,446 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_075 时间已经过去 0 毫秒.
+2020-05-22 16:34:10,447 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ICC_705 时间已经过去 3649 毫秒.
+2020-05-22 16:34:10,745 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_075.
+2020-05-22 16:34:11,173 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ICC_705.
+2020-05-22 16:34:11,606 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_112.
+2020-05-22 16:34:12,038 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS2_179.
+2020-05-22 16:34:12,471 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:34:12,472 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:34:13,798 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:34:27,302 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:34:27,303 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:34:28,202 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:34:30,002 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:34:31,793 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:34:33,581 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:34:35,450 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:34:36,349 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:34:36,349 [1] INFO  Logger (null) - [统计插件] 合计: 24 胜场/ 26 总场数(胜率:92.31 %)[22 投降数] 
+2020-05-22 16:34:36,349 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:34:36,350 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:34:37,646 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:34:39,451 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:34:41,226 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:34:42,501 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:34:43,675 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:34:44,929 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:34:46,119 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:34:46,134 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:34:46,845 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:34:48,151 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:34:48,166 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:34:48,839 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:34:49,718 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:34:49,734 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:34:50,440 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:34:51,316 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:34:51,333 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:34:52,032 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:35:07,439 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:35:07,439 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:35:10,827 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:35:12,009 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:35:13,171 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:35:14,335 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:35:15,499 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:35:16,662 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:35:17,835 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:35:19,038 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:35:20,822 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:35:22,626 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:35:23,534 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:35:25,314 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:35:27,117 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:35:28,904 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:35:29,811 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:35:31,594 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:35:33,398 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:35:33,489 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 DRUID.
+2020-05-22 16:35:33,490 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:35:33,497 [9] INFO  Logger (null) - [开局留牌] 雏龙巨婴 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:35:33,498 [9] INFO  Logger (null) - [开局留牌] 治疗之环 保留这些卡牌因为法力值消耗:0 小于预定值:4.
+2020-05-22 16:35:33,498 [9] INFO  Logger (null) - [开局留牌] 神圣新星 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:35:33,499 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_112 时间已经过去 946 毫秒.
+2020-05-22 16:35:33,711 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_621 时间已经过去 2824 毫秒.
+2020-05-22 16:35:33,977 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_054 时间已经过去 0 毫秒.
+2020-05-22 16:35:33,980 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_054.
+2020-05-22 16:35:34,376 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_112.
+2020-05-22 16:35:34,815 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:35:34,816 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:35:36,161 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:35:43,009 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 17164 [10000 - 30000].
+2020-05-22 16:35:43,010 [9] INFO  Logger (null) - [正在对局] 需要等待 17164 毫秒后自动投降.
+2020-05-22 16:35:43,015 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:35:43,910 [9] INFO  Logger (null) - [正在对局] 需要等待 16264 毫秒后自动投降.
+2020-05-22 16:35:43,914 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:35:44,807 [9] INFO  Logger (null) - [正在对局] 需要等待 15367 毫秒后自动投降.
+2020-05-22 16:35:44,812 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:35:45,735 [9] INFO  Logger (null) - [正在对局] 需要等待 14440 毫秒后自动投降.
+2020-05-22 16:35:45,740 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:35:46,630 [9] INFO  Logger (null) - [正在对局] 需要等待 13544 毫秒后自动投降.
+2020-05-22 16:35:46,930 [9] INFO  Logger (null) - AI计算中，请稍候... 00:35:46.9305
+2020-05-22 16:35:47,072 [9] INFO  Logger (null) - 计算完成! 00:35:47.0721
+2020-05-22 16:35:47,073 [9] INFO  Logger (null) - 回合结束
+2020-05-22 16:35:51,289 [9] INFO  Logger (null) - [正在对局] 需要等待 8885 毫秒后自动投降.
+2020-05-22 16:35:51,292 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:35:52,191 [9] INFO  Logger (null) - [正在对局] 需要等待 7983 毫秒后自动投降.
+2020-05-22 16:35:52,194 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:35:53,089 [9] INFO  Logger (null) - [正在对局] 需要等待 7084 毫秒后自动投降.
+2020-05-22 16:35:53,092 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:35:53,988 [9] INFO  Logger (null) - [正在对局] 需要等待 6186 毫秒后自动投降.
+2020-05-22 16:35:53,991 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:35:54,887 [9] INFO  Logger (null) - [正在对局] 需要等待 5287 毫秒后自动投降.
+2020-05-22 16:35:54,890 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:35:55,785 [9] INFO  Logger (null) - [正在对局] 需要等待 4388 毫秒后自动投降.
+2020-05-22 16:35:55,788 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:35:56,680 [9] INFO  Logger (null) - [正在对局] 需要等待 3494 毫秒后自动投降.
+2020-05-22 16:35:56,683 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:35:57,576 [9] INFO  Logger (null) - [正在对局] 需要等待 2598 毫秒后自动投降.
+2020-05-22 16:35:57,578 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:36:02,052 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:03,845 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:05,667 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:07,446 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:09,238 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:10,128 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:36:10,128 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:36:10,129 [1] INFO  Logger (null) - [统计插件] 合计: 25 胜场/ 27 总场数(胜率:92.59 %)[22 投降数] 
+2020-05-22 16:36:10,129 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:36:11,432 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:13,227 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:15,026 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:36:16,286 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:18,141 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:36:19,945 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:36:21,208 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:22,369 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:23,532 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:24,720 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:36:24,735 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:36:25,449 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:36:26,749 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:36:26,762 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:36:27,499 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:36:28,381 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:36:28,396 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:36:29,101 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:36:29,984 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:36:30,000 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:36:30,706 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:36:46,536 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:36:46,537 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:36:49,515 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:36:49,532 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:36:49,999 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:36:50,866 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:52,032 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:53,192 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:54,356 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:55,520 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:56,699 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:36:57,897 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:36:59,652 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:37:01,447 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:37:03,242 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:37:05,033 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:37:06,830 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:37:08,624 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:37:09,523 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:37:11,321 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:37:13,110 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:37:13,188 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 DRUID.
+2020-05-22 16:37:13,189 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:37:13,196 [9] INFO  Logger (null) - [开局留牌] 神圣新星 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:37:13,197 [9] INFO  Logger (null) - [开局留牌] 治疗之环 保留这些卡牌因为法力值消耗:0 小于预定值:4.
+2020-05-22 16:37:13,198 [9] INFO  Logger (null) - [开局留牌] 真言术：盾 保留这些卡牌因为法力值消耗:0 小于预定值:4.
+2020-05-22 16:37:13,198 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_004 时间已经过去 3289 毫秒.
+2020-05-22 16:37:13,446 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_621 时间已经过去 1489 毫秒.
+2020-05-22 16:37:13,748 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_112 时间已经过去 1145 毫秒.
+2020-05-22 16:37:14,014 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_112.
+2020-05-22 16:37:14,447 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:37:14,447 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:37:15,781 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:37:17,607 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:37:23,953 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:37:23,954 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:37:24,859 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:37:26,644 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:37:28,416 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:37:30,207 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:37:32,007 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:37:32,901 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:37:32,902 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:37:32,902 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:37:32,903 [1] INFO  Logger (null) - [统计插件] 合计: 25 胜场/ 27 总场数(胜率:92.59 %)[23 投降数] 
+2020-05-22 16:37:34,172 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:37:35,961 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:37:37,766 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:37:39,027 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:37:40,216 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:37:41,515 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:37:42,707 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:37:42,721 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:37:43,430 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:37:44,734 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:37:44,746 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:37:45,449 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:37:46,327 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:37:46,339 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:37:47,009 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:37:47,891 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:37:47,904 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:37:48,542 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:37:49,424 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:37:49,438 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:37:50,147 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:37:51,028 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:37:51,046 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:37:51,753 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:38:07,161 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:38:07,161 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:38:10,366 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:38:10,381 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:38:11,081 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:38:11,959 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:38:11,973 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:38:12,678 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:38:13,557 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:38:13,571 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:38:14,417 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:38:15,276 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:16,438 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:17,601 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:18,767 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:19,930 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:21,156 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:22,325 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:23,490 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:24,677 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:25,840 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:27,003 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:28,167 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:29,330 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:30,506 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:38:31,711 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:38:33,499 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:38:35,296 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:38:36,194 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:38:37,988 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:38:39,782 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:38:41,577 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:38:43,372 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:38:45,170 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:38:46,963 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:38:47,083 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 DRUID.
+2020-05-22 16:38:47,084 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:38:47,091 [9] INFO  Logger (null) - [开局留牌] 光耀之子 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:38:47,092 [9] INFO  Logger (null) - [开局留牌] 八爪巨怪 弃掉这些卡牌因为法力值消耗:8 没有小于预定值:4.
+2020-05-22 16:38:47,093 [9] INFO  Logger (null) - [开局留牌] 火树巫医 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2020-05-22 16:38:47,093 [9] INFO  Logger (null) - [开局留牌] 冰风雪人 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:38:47,094 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_335 时间已经过去 1484 毫秒.
+2020-05-22 16:38:47,337 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 TRL_523 时间已经过去 1428 毫秒.
+2020-05-22 16:38:47,637 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ULD_177 时间已经过去 1008 毫秒.
+2020-05-22 16:38:47,936 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_182 时间已经过去 919 毫秒.
+2020-05-22 16:38:48,237 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_335.
+2020-05-22 16:38:48,668 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ULD_177.
+2020-05-22 16:38:49,099 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS2_182.
+2020-05-22 16:38:49,534 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:38:49,535 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:38:50,867 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:38:52,954 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:39:01,894 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 12578 [10000 - 30000].
+2020-05-22 16:39:01,895 [9] INFO  Logger (null) - [正在对局] 需要等待 12578 毫秒后自动投降.
+2020-05-22 16:39:01,897 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:39:02,792 [9] INFO  Logger (null) - [正在对局] 需要等待 11680 毫秒后自动投降.
+2020-05-22 16:39:02,795 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:39:03,691 [9] INFO  Logger (null) - [正在对局] 需要等待 10782 毫秒后自动投降.
+2020-05-22 16:39:03,694 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:39:04,587 [9] INFO  Logger (null) - [正在对局] 需要等待 9885 毫秒后自动投降.
+2020-05-22 16:39:04,589 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:39:05,483 [9] INFO  Logger (null) - [正在对局] 需要等待 8990 毫秒后自动投降.
+2020-05-22 16:39:05,486 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:39:06,365 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:39:08,171 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:39:09,960 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:39:11,751 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:39:13,546 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:39:15,342 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:39:15,343 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:39:15,343 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:39:15,345 [1] INFO  Logger (null) - [统计插件] 合计: 26 胜场/ 28 总场数(胜率:92.86 %)[23 投降数] 
+2020-05-22 16:39:16,639 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:39:18,433 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:39:20,232 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:39:21,505 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:22,680 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:23,848 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:25,050 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:39:25,062 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:39:25,755 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:39:26,998 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:39:27,053 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:39:27,765 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:39:28,644 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:39:28,656 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:39:29,296 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:39:44,706 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:39:44,706 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:39:48,114 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:49,284 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:50,447 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:51,611 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:52,780 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:53,946 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:55,126 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:39:56,333 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:39:58,122 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:39:59,891 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:40:00,796 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:02,598 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:04,393 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:06,180 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:07,084 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:40:08,879 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:40:10,671 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:40:10,777 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 WARRIOR.
+2020-05-22 16:40:10,778 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:40:10,785 [9] INFO  Logger (null) - [开局留牌] 神圣新星 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:40:10,786 [9] INFO  Logger (null) - [开局留牌] 雏龙巨婴 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:40:10,787 [9] INFO  Logger (null) - [开局留牌] 深蓝系咒师 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:40:10,787 [9] INFO  Logger (null) - [开局留牌] 库尔提拉斯教士 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:40:10,788 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_195 时间已经过去 1157 毫秒.
+2020-05-22 16:40:10,970 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_054 时间已经过去 2173 毫秒.
+2020-05-22 16:40:11,234 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_075 时间已经过去 997 毫秒.
+2020-05-22 16:40:11,538 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS1_112 时间已经过去 3208 毫秒.
+2020-05-22 16:40:11,833 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS1_112.
+2020-05-22 16:40:12,198 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_054.
+2020-05-22 16:40:12,628 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_075.
+2020-05-22 16:40:13,060 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_195.
+2020-05-22 16:40:13,493 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:40:13,493 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:40:14,880 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:16,677 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:18,470 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:20,258 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:40:28,140 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:40:28,140 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:40:29,042 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:40:30,837 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:40:32,638 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:40:34,435 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:40:36,233 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:40:37,126 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:40:37,126 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:40:37,127 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:40:37,129 [1] INFO  Logger (null) - [统计插件] 合计: 26 胜场/ 28 总场数(胜率:92.86 %)[24 投降数] 
+2020-05-22 16:40:38,391 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:40:40,166 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:40:41,961 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:40:43,220 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:40:44,377 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:40:45,613 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:40:46,804 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:40:46,818 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:40:47,603 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:40:48,882 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:40:48,898 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:40:49,533 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:40:50,419 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:40:50,446 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:40:51,140 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:40:52,019 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:40:52,033 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:40:52,638 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:40:53,518 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:40:53,534 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:40:54,173 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:40:55,038 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:40:55,061 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:40:55,657 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:40:56,533 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:40:56,547 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:41:16,421 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:41:18,103 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:41:19,266 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:41:20,536 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:41:21,709 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:41:22,917 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:41:24,742 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:41:26,539 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:41:27,441 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:29,234 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:31,000 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:32,791 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:33,692 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:41:35,484 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:41:37,278 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:41:37,364 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 HUNTER.
+2020-05-22 16:41:37,365 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:41:37,373 [9] INFO  Logger (null) - [开局留牌] 雏龙巨婴 弃掉这些卡牌因为法力值消耗:5 没有小于预定值:4.
+2020-05-22 16:41:37,373 [9] INFO  Logger (null) - [开局留牌] 森金持盾卫士 弃掉这些卡牌因为法力值消耗:4 没有小于预定值:4.
+2020-05-22 16:41:37,374 [9] INFO  Logger (null) - [开局留牌] 真言术：盾 保留这些卡牌因为法力值消耗:0 小于预定值:4.
+2020-05-22 16:41:37,374 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_179 时间已经过去 0 毫秒.
+2020-05-22 16:41:37,375 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 DRG_054 时间已经过去 3226 毫秒.
+2020-05-22 16:41:37,586 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 CS2_004 时间已经过去 3304 毫秒.
+2020-05-22 16:41:37,855 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 DRG_054.
+2020-05-22 16:41:38,284 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 CS2_179.
+2020-05-22 16:41:38,727 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:41:38,727 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:41:40,034 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:41,823 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:43,620 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:45,414 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:41:49,573 [9] INFO  Logger (null) - [正在对局] 下局投降的随机时间为 29193 [10000 - 30000].
+2020-05-22 16:41:49,574 [9] INFO  Logger (null) - [正在对局] 需要等待 29193 毫秒后自动投降.
+2020-05-22 16:41:49,579 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:41:50,478 [9] INFO  Logger (null) - [正在对局] 需要等待 28290 毫秒后自动投降.
+2020-05-22 16:41:50,482 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:41:51,368 [9] INFO  Logger (null) - [正在对局] 需要等待 27399 毫秒后自动投降.
+2020-05-22 16:41:51,372 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:41:52,246 [9] INFO  Logger (null) - [正在对局] 需要等待 26521 毫秒后自动投降.
+2020-05-22 16:41:52,250 [9] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-22 16:41:53,139 [9] INFO  Logger (null) - [正在对局] 需要等待 25628 毫秒后自动投降.
+2020-05-22 16:41:53,447 [9] INFO  Logger (null) - AI计算中，请稍候... 00:41:53.4476
+2020-05-22 16:41:53,621 [9] INFO  Logger (null) - 计算完成! 00:41:53.6212
+2020-05-22 16:41:53,621 [9] INFO  Logger (null) - 回合结束
+2020-05-22 16:41:57,897 [9] INFO  Logger (null) - [正在对局] 需要等待 20870 毫秒后自动投降.
+2020-05-22 16:41:57,900 [9] INFO  Logger (null) - [对手回合]
+2020-05-22 16:41:58,801 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:42:00,595 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:42:02,385 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:42:04,187 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:42:05,957 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:42:06,853 [9] INFO  Logger (null) - [游戏结束] Victory => PLAY_GAME.
+2020-05-22 16:42:06,854 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:42:06,854 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:42:06,857 [1] INFO  Logger (null) - [统计插件] 合计: 27 胜场/ 29 总场数(胜率:93.10 %)[24 投降数] 
+2020-05-22 16:42:08,123 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:42:09,912 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:42:11,707 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [VictoryScreen]. 现在点击继续.
+2020-05-22 16:42:12,974 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:14,142 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:15,316 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:16,504 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:42:16,521 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:42:17,205 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:42:18,509 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:42:18,522 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:42:19,195 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:42:20,076 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:42:20,093 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:42:20,767 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:42:21,646 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:42:21,661 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:42:22,276 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:42:23,157 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:42:23,170 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:42:23,841 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:42:39,672 [9] ERROR Logger (null) - [Tick] Exception during execution:
+GreyMagic.InjectionDesyncException: Process must have frozen or gotten out of sync: Injection Finished Event was never fired
+   at GreyMagic.Executor.WaitForInjection(Int32 timeout)
+   at GreyMagic.Executor.SharedExecuteLogicEnd(Int32 timeout)
+   at GreyMagic.Executor.Execute(Int32 timeout)
+   at GreyMagic.Executor.GrabFrame()
+   at GreyMagic.ExternalProcessMemory.AcquireFrame(Boolean isHardLock)
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 493
+2020-05-22 16:42:39,672 [9] DEBUG Logger (null) - [BotThreadFunction] An InjectionDesyncException was detected.
+2020-05-22 16:42:42,727 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:42:42,744 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:42:43,153 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:42:44,025 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:45,188 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:46,351 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:47,528 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:48,692 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:49,871 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:42:51,072 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:42:52,861 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:42:54,767 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:42:56,566 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:42:58,394 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:00,175 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:01,986 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:02,885 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:43:04,758 [9] DEBUG Logger (null) - [开局留牌] 等待界面激活.
+2020-05-22 16:43:06,568 [9] INFO  Logger (null) - [开局留牌] 留牌界面激活.
+2020-05-22 16:43:06,694 [9] INFO  Logger (null) - [开局留牌] PRIEST 对阵 SHAMAN.
+2020-05-22 16:43:06,695 [9] INFO  Logger (null) - [开局留牌] 应用这个 控场模式 规则:
+2020-05-22 16:43:06,708 [9] INFO  Logger (null) - [开局留牌] 心灵咒术师 弃掉这些卡牌因为法力值消耗:10 没有小于预定值:4.
+2020-05-22 16:43:06,709 [9] INFO  Logger (null) - [开局留牌] 白骨幼龙 弃掉这些卡牌因为法力值消耗:6 没有小于预定值:4.
+2020-05-22 16:43:06,710 [9] INFO  Logger (null) - [开局留牌] 暗言术：灭 保留这些卡牌因为法力值消耗:2 小于预定值:4.
+2020-05-22 16:43:06,711 [9] INFO  Logger (null) - [开局留牌] 巫妖王 弃掉这些卡牌因为法力值消耗:8 没有小于预定值:4.
+2020-05-22 16:43:06,712 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_622 时间已经过去 0 毫秒.
+2020-05-22 16:43:06,713 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 EX1_193 时间已经过去 0 毫秒.
+2020-05-22 16:43:06,713 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ICC_314 时间已经过去 2038 毫秒.
+2020-05-22 16:43:06,927 [9] INFO  Logger (null) - [开局留牌] 现在开始思考留牌 ICC_027 时间已经过去 0 毫秒.
+2020-05-22 16:43:06,929 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 EX1_193.
+2020-05-22 16:43:07,359 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ICC_027.
+2020-05-22 16:43:07,800 [9] INFO  Logger (null) - [开局留牌] 正在弃牌 ICC_314.
+2020-05-22 16:43:08,200 [9] INFO  Logger (null) - [开局留牌] 留牌计算完成. 现在确认.
+2020-05-22 16:43:08,201 [9] INFO  Logger (null) - [确认留牌]
+2020-05-22 16:43:09,556 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:11,654 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:13,524 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:15,312 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:17,130 [9] DEBUG Logger (null) - [开局留牌] 等待对局开始.
+2020-05-22 16:43:30,542 [9] INFO  Logger (null) - [正在对局] 下一局玩家对战普通自投 = False.
+2020-05-22 16:43:30,543 [9] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-22 16:43:31,453 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:43:33,248 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:43:35,042 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:43:36,840 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:43:38,613 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:43:39,519 [9] INFO  Logger (null) - [游戏结束] Defeat [conceded] => PLAY_GAME.
+2020-05-22 16:43:39,520 [9] INFO  Logger (null) - [本局结束]
+2020-05-22 16:43:39,521 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:43:39,524 [1] INFO  Logger (null) - [统计插件] 合计: 27 胜场/ 29 总场数(胜率:93.10 %)[25 投降数] 
+2020-05-22 16:43:40,719 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:43:42,510 [9] DEBUG Logger (null) - [对局结束] 结束界面没有显示.
+2020-05-22 16:43:44,298 [9] INFO  Logger (null) - [对局结束] 结束界面显示为 [DefeatScreen]. 现在点击继续.
+2020-05-22 16:43:45,793 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:43:46,982 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:43:48,169 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:43:49,356 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:43:49,369 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:43:50,013 [9] INFO  Logger (null) - [对局准备-卡组选择] 点击 "开始" 按钮.
+2020-05-22 16:43:51,319 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:43:51,335 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:43:51,976 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:43:52,856 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:43:52,874 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:43:53,579 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:43:54,457 [9] INFO  Logger (null) - [对局准备]
+2020-05-22 16:43:54,476 [9] INFO  Logger (null) - [对局准备-卡组选择] 尝试选定卡组.
+2020-05-22 16:44:13,292 [9] INFO  Logger (null) - [对局准备-卡组选择] The "Matching" popup is showing.
+2020-05-22 16:44:14,205 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:44:15,382 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:44:16,547 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:44:17,710 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:44:18,873 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:44:20,212 [9] INFO  Logger (null) - [界面切换] 对局马上开始.
+2020-05-22 16:44:21,413 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:44:23,218 [9] DEBUG Logger (null) - [开局留牌] 正在进入留牌界面.
+2020-05-22 16:44:24,125 [1] INFO  Logger (null) - [停止] 现在准备停止挂机.
+2020-05-22 16:44:24,147 [9] DEBUG Logger (null) - [统计插件]停止
+2020-05-22 16:44:24,149 [9] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.

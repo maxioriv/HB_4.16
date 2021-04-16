@@ -1,0 +1,6 @@
+{
+  "CommonConcede": false,
+  "DelayConcede": false,
+  "Maxtick": 10000,
+  "Mintick": 8000
+}

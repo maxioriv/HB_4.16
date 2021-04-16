@@ -1,0 +1,263 @@
+2020-05-23 05:05:52,801 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 企业版
+OS Version: 10.0.17134
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-23 05:05:52,844 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-23 05:05:52,845 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-23 05:05:52,845 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-23 05:05:52,845 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-23 05:05:53,251 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-23 05:05:53,358 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2020-05-23 05:05:53,376 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-23 05:05:53,388 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-23 05:05:53,613 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-23 05:05:53,624 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2020-05-23 05:05:53,659 [1] INFO  Logger (null) - Region: cn
+2020-05-23 05:05:53,660 [1] INFO  Logger (null) - T: 5248944089963963693 严禁交易出售，免费使用！！！
+2020-05-23 05:05:54,265 [8] INFO  Logger (null) - 现在使用 DX11...
+2020-05-23 05:05:59,355 [8] INFO  Logger (null) - 炉石传说的版本号为 (48705, 1574674)
+2020-05-23 05:05:59,400 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2020-05-23 05:05:59,516 [8] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-23 05:05:59,517 [8] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2020-05-23 05:05:59,517 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 05:05:59,518 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 05:05:59,518 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2020-05-23 05:05:59,519 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2020-05-23 05:05:59,519 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-23 05:05:59,519 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-23 05:05:59,520 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2020-05-23 05:05:59,520 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 05:05:59,521 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 05:05:59,521 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 05:05:59,521 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 05:05:59,522 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 05:05:59,522 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 05:05:59,522 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 05:05:59,523 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 05:05:59,524 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2020-05-23 05:05:59,524 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 05:05:59,525 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 05:05:59,527 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-23 05:05:59,527 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 05:05:59,528 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2020-05-23 05:05:59,529 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 05:05:59,533 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 05:05:59,535 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 05:05:59,547 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2020-05-23 05:05:59,548 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2020-05-23 05:05:59,549 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-23 05:05:59,550 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = True.
+2020-05-23 05:05:59,551 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 10000.
+2020-05-23 05:05:59,551 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 05:05:59,553 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 05:05:59,553 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 05:05:59,554 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 05:05:59,554 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 05:05:59,555 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 05:05:59,555 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 05:05:59,556 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 05:05:59,557 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 66.
+2020-05-23 05:05:59,557 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 05:05:59,558 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 05:05:59,559 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 随机模式.
+2020-05-23 05:05:59,560 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 05:05:59,562 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2020-05-23 05:05:59,562 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 05:05:59,563 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 05:05:59,564 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 05:05:59,564 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 05:05:59,565 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 05:05:59,639 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2020-05-23 05:05:59,639 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2020-05-23 05:06:05,535 [8] INFO  Logger (null) - 开始启动...
+2020-05-23 05:06:07,878 [8] INFO  Logger (null) - CardList:6885
+2020-05-23 05:06:08,490 [8] INFO  Logger (null) - ----------------------------
+2020-05-23 05:06:08,490 [8] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2020-05-23 05:06:08,491 [8] INFO  Logger (null) - ----------------------------
+2020-05-23 05:06:08,548 [8] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2020-05-23 05:06:08,548 [8] INFO  Logger (null) - ----------------------------
+2020-05-23 05:06:08,554 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2020-05-23 05:06:08,555 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2020-05-23 05:06:08,556 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2020-05-23 05:06:08,557 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2020-05-23 05:06:08,558 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2020-05-23 05:06:08,559 [8] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = Control.
+2020-05-23 05:06:08,563 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2020-05-23 05:06:08,563 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2020-05-23 05:06:08,564 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2020-05-23 05:06:08,564 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2020-05-23 05:06:08,565 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2020-05-23 05:06:08,566 [8] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = 控场模式.
+2020-05-23 05:06:09,258 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
+2020-05-23 05:06:09,258 [1] DEBUG Logger (null) - Current routine set to 策略.
+2020-05-23 05:06:11,886 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-23 05:06:11,889 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-23 05:06:11,890 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-23 05:06:11,891 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-23 05:06:11,892 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-23 05:06:11,893 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-23 05:06:11,894 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-23 05:06:11,895 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-23 05:06:11,896 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-23 05:06:11,897 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-23 05:06:11,910 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-23 05:06:11,911 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-23 05:06:11,912 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-23 05:06:11,913 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-23 05:06:11,913 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-23 05:06:11,913 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-23 05:06:11,914 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-23 05:06:11,915 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-23 05:06:11,915 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-23 05:06:11,916 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-23 05:06:11,916 [8] DEBUG Logger (null) - [自动停止插件] 开启
+2020-05-23 05:06:11,924 [8] INFO  Logger (null) - [日常任务插件设置] 自动停止至所有日常任务完成 = True.
+2020-05-23 05:06:11,932 [8] DEBUG Logger (null) - [日常任务插件] 开启
+2020-05-23 05:06:11,941 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2020-05-23 05:06:11,943 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 休闲模式.
+2020-05-23 05:06:11,944 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2020-05-23 05:06:11,945 [8] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2020-05-23 05:06:11,947 [8] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2020-05-23 05:06:11,948 [8] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = True.
+2020-05-23 05:06:11,949 [8] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = True.
+2020-05-23 05:06:11,949 [8] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2020-05-23 05:06:11,951 [8] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = True.
+2020-05-23 05:06:11,951 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2020-05-23 05:06:11,952 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2020-05-23 05:06:11,953 [8] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = False.
+2020-05-23 05:06:11,953 [8] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 60.
+2020-05-23 05:06:11,954 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2020-05-23 05:06:11,955 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2020-05-23 05:06:11,974 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2020-05-23 05:06:11,974 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 排位赛.
+2020-05-23 05:06:11,975 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2020-05-23 05:06:11,976 [8] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2020-05-23 05:06:11,977 [8] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2020-05-23 05:06:11,977 [8] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = False.
+2020-05-23 05:06:11,978 [8] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = False.
+2020-05-23 05:06:11,978 [8] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2020-05-23 05:06:11,979 [8] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = False.
+2020-05-23 05:06:11,979 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2020-05-23 05:06:11,980 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2020-05-23 05:06:11,980 [8] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = True.
+2020-05-23 05:06:11,981 [8] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 10.
+2020-05-23 05:06:11,982 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2020-05-23 05:06:11,982 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2020-05-23 05:06:11,983 [8] DEBUG Logger (null) - [日常增强任务] 初始化
+2020-05-23 05:06:11,987 [8] DEBUG Logger (null) - [统计插件] 初始化
+2020-05-23 05:06:12,096 [8] DEBUG Logger (null) - [统计插件] 启用
+2020-05-23 05:06:12,180 [8] INFO  Logger (null) - 
+Please read the following guide before using this program:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html
+2020-05-23 05:07:29,179 [1] INFO  Logger (null) - [开始] 现在开始挂机.
+2020-05-23 05:07:29,268 [5] DEBUG Logger (null) - [统计插件] 开启
+2020-05-23 05:07:29,273 [5] INFO  Logger (null) - 读取战场设置 控场模式
+2020-05-23 05:07:29,275 [5] INFO  Logger (null) - 目前的AI值（alpha）是 0.5
+2020-05-23 05:07:29,275 [5] INFO  Logger (null) - 设置怼脸血线值为: 15
+2020-05-23 05:07:29,276 [5] INFO  Logger (null) - 设置武器怼脸血线值: 0
+2020-05-23 05:07:29,277 [5] INFO  Logger (null) - 设置AI值（maxwide）: 3000
+2020-05-23 05:07:29,277 [5] INFO  Logger (null) - 计算下个回合 0 线程
+2020-05-23 05:07:29,277 [5] INFO  Logger (null) - 开启防奥秘
+2020-05-23 05:07:29,278 [5] INFO  Logger (null) - 控场模式 配置文件读取成功.
+2020-05-23 05:07:29,279 [5] INFO  Logger (null) - [连招功能] 成功加载“连招” 控场模式
+2020-05-23 05:07:29,282 [5] INFO  Logger (null) - 加载“连招功能”文本 _combo.txt...
+2020-05-23 05:07:29,283 [5] INFO  Logger (null) - [连招功能] 0 “连招”功能激活成功, 0 个权重值已加载
+2020-05-23 05:07:29,312 [5] INFO  Logger (null) - [规则编辑器] 1 规则名 控场模式 读取成功
+2020-05-23 05:07:29,566 [5] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-23 05:07:30,592 [5] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-23 05:07:31,619 [5] DEBUG Logger (null) - [我方回合] 请稍候.....
+2020-05-23 05:07:33,610 [5] INFO  Logger (null) - AI计算中，请稍候... 13:07:33.6102
+2020-05-23 05:07:33,986 [5] INFO  Logger (null) - 计算完成! 13:07:33.9867
+2020-05-23 05:07:33,987 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:34,001 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:35,480 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:35,673 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:36,538 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:36,542 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:37,563 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:37,767 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:38,592 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:38,595 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:39,616 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:39,820 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:40,638 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:40,641 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:41,664 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:41,863 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:42,664 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:42,667 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:43,689 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:43,895 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:44,922 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:44,926 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:45,944 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:46,142 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:46,904 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:46,908 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:47,927 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:48,131 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:48,921 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:48,925 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:49,947 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:50,156 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:50,966 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:50,969 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:51,991 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:52,196 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:53,013 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:53,016 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:54,036 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:54,232 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:55,069 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:55,073 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:56,033 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:56,231 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:57,044 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:57,048 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:07:58,071 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:07:58,269 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:07:59,085 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:07:59,089 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:00,110 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:00,317 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:01,144 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:01,147 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:02,137 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:02,333 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:03,127 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:03,130 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:04,150 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:04,347 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:05,111 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:05,115 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:06,068 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:06,265 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:07,091 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:07,094 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:08,116 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:08,318 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:09,163 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:09,167 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:10,188 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:10,384 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:11,175 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:11,179 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:12,202 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:12,402 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:13,178 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:13,181 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:14,204 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:14,402 [5] ERROR Logger (null) - 目标丢失...
+2020-05-23 05:08:15,189 [5] INFO  Logger (null) - 开始行动
+2020-05-23 05:08:15,192 [5] INFO  Logger (null) - 使用英雄技能: 火焰冲击 暂时没有目标
+2020-05-23 05:08:16,038 [1] INFO  Logger (null) - [停止] 现在准备停止挂机.
+2020-05-23 05:08:16,212 [5] INFO  Logger (null) - [挑选卡牌] 不能选中卡牌用时 500 毫秒.
+2020-05-23 05:08:16,320 [5] DEBUG Logger (null) - [统计插件]停止
+2020-05-23 05:08:16,322 [5] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-23 05:08:19,190 [1] ERROR Logger (null) - Please wait for the current bot to stop before closing the program.

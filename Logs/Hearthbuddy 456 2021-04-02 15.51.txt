@@ -1,0 +1,350 @@
+2021-04-02 07:51:52,946 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: D:\hb\maxiori_hb\卡卡2.8优化奥秘法\卡卡2.8\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.18363
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2021-04-02 07:51:53,012 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2021-04-02 07:51:53,013 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2021-04-02 07:51:53,014 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2021-04-02 07:51:53,014 [1] INFO  Logger (null) - Now checking prerequisites...
+2021-04-02 07:51:53,760 [1] INFO  Logger (null) - Prerequisite check complete!
+2021-04-02 07:51:54,321 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2021-04-02 07:51:54,341 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2021-04-02 07:51:54,369 [1] INFO  Logger (null) - [AuthRegion] China.
+2021-04-02 07:51:54,819 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2021-04-02 07:51:54,839 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2021-04-02 07:51:55,124 [1] INFO  Logger (null) - Region: cn
+2021-04-02 07:51:55,128 [1] INFO  Logger (null) - T: 5249215485578621583 严禁交易出售，免费使用！！！
+2021-04-02 07:51:56,015 [8] INFO  Logger (null) - 现在使用 DX11...
+2021-04-02 07:52:03,462 [8] INFO  Logger (null) - 炉石传说的版本号为 (77662, 2037091)
+2021-04-02 07:52:03,537 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2021-04-02 07:52:04,391 [8] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2021-04-02 07:52:04,395 [8] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2021-04-02 07:52:04,396 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2021-04-02 07:52:04,397 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2021-04-02 07:52:04,398 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2021-04-02 07:52:04,399 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2021-04-02 07:52:04,400 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2021-04-02 07:52:04,401 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2021-04-02 07:52:04,402 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2021-04-02 07:52:04,403 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2021-04-02 07:52:04,404 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2021-04-02 07:52:04,405 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2021-04-02 07:52:04,406 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2021-04-02 07:52:04,407 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2021-04-02 07:52:04,408 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2021-04-02 07:52:04,409 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2021-04-02 07:52:04,411 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2021-04-02 07:52:04,412 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2021-04-02 07:52:04,415 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2021-04-02 07:52:04,417 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2021-04-02 07:52:04,420 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2021-04-02 07:52:04,421 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2021-04-02 07:52:04,424 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2021-04-02 07:52:04,425 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2021-04-02 07:52:04,426 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2021-04-02 07:52:04,428 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2021-04-02 07:52:04,450 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2021-04-02 07:52:04,451 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2021-04-02 07:52:04,453 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2021-04-02 07:52:04,454 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = True.
+2021-04-02 07:52:04,456 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 10000.
+2021-04-02 07:52:04,457 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2021-04-02 07:52:04,459 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2021-04-02 07:52:04,460 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2021-04-02 07:52:04,462 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2021-04-02 07:52:04,462 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2021-04-02 07:52:04,463 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2021-04-02 07:52:04,464 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2021-04-02 07:52:04,466 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2021-04-02 07:52:04,467 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 66.
+2021-04-02 07:52:04,468 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2021-04-02 07:52:04,470 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2021-04-02 07:52:04,471 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 随机模式.
+2021-04-02 07:52:04,473 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2021-04-02 07:52:04,475 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2021-04-02 07:52:04,476 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2021-04-02 07:52:04,477 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2021-04-02 07:52:04,478 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2021-04-02 07:52:04,478 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2021-04-02 07:52:04,479 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2021-04-02 07:52:04,688 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2021-04-02 07:52:04,689 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2021-04-02 07:52:08,646 [1] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2021-04-02 07:52:14,145 [8] INFO  Logger (null) - 开始启动...
+2021-04-02 07:52:14,190 [1] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2021-04-02 07:52:18,759 [8] INFO  Logger (null) - CardList:6846
+2021-04-02 07:52:20,138 [8] INFO  Logger (null) - ----------------------------
+2021-04-02 07:52:20,143 [8] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2021-04-02 07:52:20,144 [8] INFO  Logger (null) - ----------------------------
+2021-04-02 07:52:20,543 [8] INFO  Logger (null) - 您正在使用的AI版本为117.178
+2021-04-02 07:52:20,544 [8] INFO  Logger (null) - ----------------------------
+2021-04-02 07:52:20,908 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2021-04-02 07:52:20,914 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2021-04-02 07:52:20,916 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2021-04-02 07:52:20,918 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2021-04-02 07:52:20,920 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2021-04-02 07:52:20,922 [8] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = Control.
+2021-04-02 07:52:20,932 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族1 = HUNTER.
+2021-04-02 07:52:20,933 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族2 = WARLOCK.
+2021-04-02 07:52:20,934 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族3 = PRIEST.
+2021-04-02 07:52:20,935 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族4 = ROGUE.
+2021-04-02 07:52:20,937 [8] INFO  Logger (null) - [默认策略设置] 竞技场优先种族5 = WARRIOR.
+2021-04-02 07:52:20,938 [8] INFO  Logger (null) - [默认策略设置] 默认战斗模式 = 控场模式.
+2021-04-02 07:52:22,833 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
+2021-04-02 07:52:22,835 [1] DEBUG Logger (null) - Current routine set to 策略.
+2021-04-02 07:52:28,059 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2021-04-02 07:52:28,071 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2021-04-02 07:52:28,074 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2021-04-02 07:52:28,075 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2021-04-02 07:52:28,076 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2021-04-02 07:52:28,078 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2021-04-02 07:52:28,079 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2021-04-02 07:52:28,080 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2021-04-02 07:52:28,081 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2021-04-02 07:52:28,082 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2021-04-02 07:52:28,089 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2021-04-02 07:52:28,090 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2021-04-02 07:52:28,091 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2021-04-02 07:52:28,092 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2021-04-02 07:52:28,092 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2021-04-02 07:52:28,093 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2021-04-02 07:52:28,094 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2021-04-02 07:52:28,095 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2021-04-02 07:52:28,095 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2021-04-02 07:52:28,096 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2021-04-02 07:52:28,098 [8] DEBUG Logger (null) - [自动停止插件] 开启
+2021-04-02 07:52:28,106 [8] INFO  Logger (null) - [日常任务插件设置] 自动停止至所有日常任务完成 = True.
+2021-04-02 07:52:28,128 [8] DEBUG Logger (null) - [日常任务插件] 开启
+2021-04-02 07:52:28,142 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2021-04-02 07:52:28,159 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 休闲模式.
+2021-04-02 07:52:28,161 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2021-04-02 07:52:28,163 [8] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2021-04-02 07:52:28,167 [8] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2021-04-02 07:52:28,168 [8] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = True.
+2021-04-02 07:52:28,170 [8] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = True.
+2021-04-02 07:52:28,171 [8] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2021-04-02 07:52:28,173 [8] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = True.
+2021-04-02 07:52:28,175 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2021-04-02 07:52:28,176 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2021-04-02 07:52:28,177 [8] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = False.
+2021-04-02 07:52:28,179 [8] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 60.
+2021-04-02 07:52:28,180 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2021-04-02 07:52:28,181 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2021-04-02 07:52:28,225 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务的游戏模式 = 休闲模式.
+2021-04-02 07:52:28,227 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 排位赛.
+2021-04-02 07:52:28,227 [8] INFO  Logger (null) - [日常增强任务设置] 完成日常任务后的游戏模式 = 玩家对战模式.
+2021-04-02 07:52:28,229 [8] INFO  Logger (null) - [日常增强任务设置] 任务计划 = MaxQuests.
+2021-04-02 07:52:28,231 [8] INFO  Logger (null) - [日常增强任务设置] 完成任务后计划 = Play.
+2021-04-02 07:52:28,232 [8] INFO  Logger (null) - [日常增强任务设置] 使用最合适的卡组 = False.
+2021-04-02 07:52:28,233 [8] INFO  Logger (null) - [日常增强任务设置] 移除最差的任务 = False.
+2021-04-02 07:52:28,234 [8] INFO  Logger (null) - [日常增强任务设置] 移除乱斗任务 = False.
+2021-04-02 07:52:28,234 [8] INFO  Logger (null) - [日常增强任务设置] 用排位模式来完成任务 = False.
+2021-04-02 07:52:28,235 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位 = False.
+2021-04-02 07:52:28,236 [8] INFO  Logger (null) - [日常增强任务设置] 自动停止如果任务空位数 = 60.
+2021-04-02 07:52:28,238 [8] INFO  Logger (null) - [日常增强任务设置] 到达10级以上更换职业 = True.
+2021-04-02 07:52:28,239 [8] INFO  Logger (null) - [日常增强任务设置] 更换1级职业 = 10.
+2021-04-02 07:52:28,240 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯 = False.
+2021-04-02 07:52:28,241 [8] INFO  Logger (null) - [日常增强任务设置] 保持天梯等级1 = 60.
+2021-04-02 07:52:28,242 [8] DEBUG Logger (null) - [日常增强任务] 初始化
+2021-04-02 07:52:28,248 [8] DEBUG Logger (null) - [统计插件] 初始化
+2021-04-02 07:52:28,832 [8] DEBUG Logger (null) - [统计插件] 启用
+2021-04-02 07:52:28,962 [8] INFO  Logger (null) - 
+Please read the following guide before using this program:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html
+2021-04-02 07:52:30,556 [1] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 2.
+2021-04-02 07:52:30,743 [1] INFO  Logger (null) - [开始] 现在开始挂机.
+2021-04-02 07:52:30,836 [20] DEBUG Logger (null) - [统计插件] 开启
+2021-04-02 07:52:30,845 [20] INFO  Logger (null) - 读取战场设置 控场模式
+2021-04-02 07:52:30,849 [20] INFO  Logger (null) - 目前的AI值（alpha）是 0.5
+2021-04-02 07:52:30,851 [20] INFO  Logger (null) - 设置怼脸血线值为: 15
+2021-04-02 07:52:30,851 [20] INFO  Logger (null) - 设置武器怼脸血线值: 0
+2021-04-02 07:52:30,852 [20] INFO  Logger (null) - 设置AI值（maxwide）: 3000
+2021-04-02 07:52:30,853 [20] INFO  Logger (null) - 计算下个回合 0 线程
+2021-04-02 07:52:30,855 [20] INFO  Logger (null) - 开启防奥秘
+2021-04-02 07:52:30,856 [20] INFO  Logger (null) - 控场模式 配置文件读取成功.
+2021-04-02 07:52:30,859 [20] INFO  Logger (null) - [连招功能] 成功加载“连招” 控场模式
+2021-04-02 07:52:30,871 [20] INFO  Logger (null) - 加载“连招功能”文本 _combo.txt...
+2021-04-02 07:52:30,872 [20] INFO  Logger (null) - [连招功能] 0 “连招”功能激活成功, 0 个权重值已加载
+2021-04-02 07:52:30,934 [20] INFO  Logger (null) - [规则编辑器] 1 规则名 控场模式 读取成功
+2021-04-02 07:52:31,228 [20] INFO  Logger (null) - [对局准备]
+2021-04-02 07:52:31,265 [20] INFO  Logger (null) - [对局准备] 必须先要缓存卡组信息. 现在点击“我的收藏”按钮.
+2021-04-02 07:52:32,012 [20] INFO  Logger (null) - [界面切换] 游戏界面切换中.
+2021-04-02 07:52:32,827 [20] INFO  Logger (null) - [界面切换] 游戏界面加载中.
+2021-04-02 07:52:34,056 [20] INFO  Logger (null) - [界面切换] 游戏界面加载中.
+2021-04-02 07:52:37,461 [20] INFO  Logger (null) - [界面切换] 游戏界面加载中.
+2021-04-02 07:52:39,572 [20] INFO  Logger (null) - [界面切换] 游戏界面加载中.
+2021-04-02 07:52:40,803 [20] INFO  Logger (null) - [界面切换] 等待界面激活.
+2021-04-02 07:52:42,073 [20] INFO  Logger (null) - [卡组管理界面]
+2021-04-02 07:52:42,099 [20] INFO  Logger (null) - [收藏夹管理界面]
+2021-04-02 07:52:42,128 [20] DEBUG Logger (null) - [收藏夹管理界面] 请稍候...
+2021-04-02 07:52:43,119 [20] INFO  Logger (null) - [卡组管理界面]
+2021-04-02 07:52:43,128 [20] INFO  Logger (null) - [收藏夹管理界面]
+2021-04-02 07:52:43,184 [20] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.MissingMethodException: Method 'CollectionManager.GetTaggedDeck' not found.
+   at Triton.Game.Mono.MonoClass.method_7(String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 328
+   at Triton.Game.Mono.MonoClass.method_15[T](String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 197
+   at Triton.Game.Mapping.CollectionManager.GetTaggedDeck(DeckTag tag) in E:\炉石\havetrynew\Triton\Game\Mapping\CollectionManager.cs:line 512
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_6>d__43.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 861
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_5>d__42.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 823
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_21>d__65.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1253
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass37_0.<<smethod_0>b__0>d.MoveNext() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 160
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 287
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 228
+   at Buddy.Coroutines.Coroutine.Resume() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 210
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1158
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 501
+2021-04-02 07:52:43,622 [20] INFO  Logger (null) - [卡组管理界面]
+2021-04-02 07:52:43,636 [20] INFO  Logger (null) - [收藏夹管理界面]
+2021-04-02 07:52:43,676 [20] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.MissingMethodException: Method 'CollectionManager.GetTaggedDeck' not found.
+   at Triton.Game.Mono.MonoClass.method_7(String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 328
+   at Triton.Game.Mono.MonoClass.method_15[T](String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 197
+   at Triton.Game.Mapping.CollectionManager.GetTaggedDeck(DeckTag tag) in E:\炉石\havetrynew\Triton\Game\Mapping\CollectionManager.cs:line 512
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_6>d__43.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 861
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_5>d__42.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 823
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_21>d__65.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1253
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass37_0.<<smethod_0>b__0>d.MoveNext() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 160
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 287
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 228
+   at Buddy.Coroutines.Coroutine.Resume() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 210
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1158
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 501
+2021-04-02 07:52:44,120 [20] INFO  Logger (null) - [卡组管理界面]
+2021-04-02 07:52:44,135 [20] INFO  Logger (null) - [收藏夹管理界面]
+2021-04-02 07:52:44,187 [20] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.MissingMethodException: Method 'CollectionManager.GetTaggedDeck' not found.
+   at Triton.Game.Mono.MonoClass.method_7(String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 328
+   at Triton.Game.Mono.MonoClass.method_15[T](String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 197
+   at Triton.Game.Mapping.CollectionManager.GetTaggedDeck(DeckTag tag) in E:\炉石\havetrynew\Triton\Game\Mapping\CollectionManager.cs:line 512
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_6>d__43.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 861
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_5>d__42.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 823
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_21>d__65.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1253
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass37_0.<<smethod_0>b__0>d.MoveNext() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 160
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 287
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 228
+   at Buddy.Coroutines.Coroutine.Resume() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 210
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1158
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 501
+2021-04-02 07:52:44,630 [20] INFO  Logger (null) - [卡组管理界面]
+2021-04-02 07:52:44,645 [20] INFO  Logger (null) - [收藏夹管理界面]
+2021-04-02 07:52:44,690 [20] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.MissingMethodException: Method 'CollectionManager.GetTaggedDeck' not found.
+   at Triton.Game.Mono.MonoClass.method_7(String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 328
+   at Triton.Game.Mono.MonoClass.method_15[T](String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 197
+   at Triton.Game.Mapping.CollectionManager.GetTaggedDeck(DeckTag tag) in E:\炉石\havetrynew\Triton\Game\Mapping\CollectionManager.cs:line 512
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_6>d__43.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 861
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_5>d__42.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 823
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_21>d__65.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1253
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass37_0.<<smethod_0>b__0>d.MoveNext() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 160
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 287
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 228
+   at Buddy.Coroutines.Coroutine.Resume() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 210
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1158
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 501
+2021-04-02 07:52:45,127 [20] INFO  Logger (null) - [卡组管理界面]
+2021-04-02 07:52:45,138 [20] INFO  Logger (null) - [收藏夹管理界面]
+2021-04-02 07:52:45,186 [20] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.MissingMethodException: Method 'CollectionManager.GetTaggedDeck' not found.
+   at Triton.Game.Mono.MonoClass.method_7(String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 328
+   at Triton.Game.Mono.MonoClass.method_15[T](String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 197
+   at Triton.Game.Mapping.CollectionManager.GetTaggedDeck(DeckTag tag) in E:\炉石\havetrynew\Triton\Game\Mapping\CollectionManager.cs:line 512
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_6>d__43.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 861
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_5>d__42.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 823
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_21>d__65.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1253
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass37_0.<<smethod_0>b__0>d.MoveNext() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 160
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 287
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 228
+   at Buddy.Coroutines.Coroutine.Resume() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 210
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1158
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 501
+2021-04-02 07:52:45,244 [1] INFO  Logger (null) - [停止] 现在准备停止挂机.
+2021-04-02 07:52:45,662 [20] INFO  Logger (null) - [卡组管理界面]
+2021-04-02 07:52:45,672 [20] INFO  Logger (null) - [收藏夹管理界面]
+2021-04-02 07:52:45,727 [20] ERROR Logger (null) - [Tick] Exception during execution:
+Buddy.Coroutines.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.MissingMethodException: Method 'CollectionManager.GetTaggedDeck' not found.
+   at Triton.Game.Mono.MonoClass.method_7(String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 328
+   at Triton.Game.Mono.MonoClass.method_15[T](String string_4, Enum20[] enum20_0, Object[] object_0) in E:\炉石\havetrynew\Triton\Game\Mono\MonoClass.cs:line 197
+   at Triton.Game.Mapping.CollectionManager.GetTaggedDeck(DeckTag tag) in E:\炉石\havetrynew\Triton\Game\Mapping\CollectionManager.cs:line 512
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_6>d__43.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 861
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_5>d__42.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 823
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.<method_21>d__65.MoveNext() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1253
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Buddy.Coroutines.Coroutine.<>c__DisplayClass37_0.<<smethod_0>b__0>d.MoveNext() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 160
+   --- End of inner exception stack trace ---
+   at Buddy.Coroutines.Coroutine.method_2(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 287
+   at Buddy.Coroutines.Coroutine.method_0(Boolean bool_2) in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 228
+   at Buddy.Coroutines.Coroutine.Resume() in E:\炉石\havetrynew\Buddy\Coroutines\Coroutine.cs:line 210
+   at Triton.Bot.Logic.Bots.DefaultBot.DefaultBot.Tick() in E:\炉石\havetrynew\Triton\Bot\Logic\Bots\DefaultBot\DefaultBot.cs:line 1158
+   at Triton.Bot.BotManager.smethod_1(IBot ibot_1) in E:\炉石\havetrynew\Triton\Bot\BotManager.cs:line 501
+2021-04-02 07:52:45,734 [20] DEBUG Logger (null) - [统计插件]停止
+2021-04-02 07:52:45,739 [20] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.

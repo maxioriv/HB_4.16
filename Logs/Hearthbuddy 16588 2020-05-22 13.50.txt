@@ -1,0 +1,125 @@
+2020-05-22 05:50:30,456 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: E:\炉石\havetrynew\bin\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.18363
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-22 05:50:30,559 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-22 05:50:30,561 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-22 05:50:30,563 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-22 05:50:30,566 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-22 05:50:31,730 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-22 05:50:31,963 [1] INFO  Logger (null) - svchostPath: C:\Windows\System32\svchost.exe
+2020-05-22 05:50:32,244 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-22 05:50:32,274 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-22 05:50:32,918 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-22 05:50:33,841 [1] INFO  Logger (null) - Region: cn
+2020-05-22 05:50:33,847 [1] INFO  Logger (null) - T: 5248943252765755166 严禁交易出售，免费使用！！！
+2020-05-22 05:50:39,991 [8] INFO  Logger (null) - 现在使用 DX11...
+2020-05-22 05:50:48,690 [8] INFO  Logger (null) - 炉石传说的版本号为 (48705, 1574674)
+2020-05-22 05:50:48,911 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2020-05-22 05:50:50,969 [8] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-22 05:50:51,132 [8] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2020-05-22 05:50:51,150 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-22 05:50:51,153 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-22 05:50:51,155 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2020-05-22 05:50:51,172 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2020-05-22 05:50:51,174 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-22 05:50:51,176 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-22 05:50:51,179 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2020-05-22 05:50:51,182 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-22 05:50:51,184 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-22 05:50:51,186 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-22 05:50:51,189 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-22 05:50:51,192 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-22 05:50:51,194 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战自动投降 = False.
+2020-05-22 05:50:51,195 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-22 05:50:51,201 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-22 05:50:51,204 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2020-05-22 05:50:51,206 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-22 05:50:51,209 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-22 05:50:51,213 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-22 05:50:51,217 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-22 05:50:51,221 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2020-05-22 05:50:51,224 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-22 05:50:51,227 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-22 05:50:51,234 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-22 05:50:51,269 [8] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2020-05-22 05:50:51,319 [8] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2020-05-22 05:50:51,321 [8] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-22 05:50:51,322 [8] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-22 05:50:51,323 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 5000.
+2020-05-22 05:50:51,327 [8] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 12000.
+2020-05-22 05:50:51,328 [8] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-22 05:50:51,329 [8] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-22 05:50:51,331 [8] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-22 05:50:51,332 [8] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-22 05:50:51,334 [8] INFO  Logger (null) - [脚本设置] 下一局玩家对战自动投降 = False.
+2020-05-22 05:50:51,335 [8] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-22 05:50:51,340 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-22 05:50:51,342 [8] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = z.
+2020-05-22 05:50:51,344 [8] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-22 05:50:51,347 [8] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-22 05:50:51,349 [8] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-22 05:50:51,352 [8] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-22 05:50:51,354 [8] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2020-05-22 05:50:51,356 [8] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-22 05:50:51,358 [8] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-22 05:50:51,359 [8] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-22 05:50:51,360 [8] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-22 05:50:51,394 [8] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-22 05:50:51,755 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2020-05-22 05:50:51,769 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2020-05-22 05:51:03,248 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\DefaultRoutine.cs(601,27) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-22 05:51:03,249 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\DefaultRoutine.cs(646,24) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-22 05:51:03,250 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\DefaultRoutine.cs(1166,27) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-22 05:51:03,251 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\DefaultRoutine.cs(1182,27) : warning CS1998: 此异步方法缺少“await”运算符，将以同步方式运行。请考虑使用“await”运算符等待非阻止的 API 调用，或者使用“await Task.Run(...)”在后台线程上执行占用大量 CPU 的工作。
+2020-05-22 05:51:03,252 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\Hrtprozis.cs(269,45) : error CS0117: “HREngine.Bots.HeroEnum”并不包含“all”的定义
+2020-05-22 05:51:03,252 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\Mulligan.cs(118,30) : warning CS0168: 声明了变量“ee”，但从未使用过
+2020-05-22 05:51:03,253 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\Mulligan.cs(150,34) : warning CS0168: 声明了变量“eee”，但从未使用过
+2020-05-22 05:51:03,254 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(618,22) : warning CS0219: 变量“frothingberserkerEnemy”已赋值，但其值从未使用过
+2020-05-22 05:51:03,254 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(619,22) : warning CS0219: 变量“frothingberserkerOwn”已赋值，但其值从未使用过
+2020-05-22 05:51:03,256 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(620,22) : warning CS0219: 变量“grimpatronEnemy”已赋值，但其值从未使用过
+2020-05-22 05:51:03,257 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(621,22) : warning CS0219: 变量“grimpatronOwn”已赋值，但其值从未使用过
+2020-05-22 05:51:03,257 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2931,5) : warning CS0162: 检测到无法访问的代码
+2020-05-22 05:51:03,258 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\PenalityManager.cs(2972,5) : warning CS0162: 检测到无法访问的代码
+2020-05-22 05:51:03,258 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\Playfield.cs(1627,34) : warning CS0219: 变量“dontkill”已赋值，但其值从未使用过
+2020-05-22 05:51:03,259 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\RulesEngine.cs(1117,30) : warning CS0168: 声明了变量“ee”，但从未使用过
+2020-05-22 05:51:03,262 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\ai\Settings.cs(157,30) : warning CS0168: 声明了变量“e”，但从未使用过
+2020-05-22 05:51:03,263 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Routines\DefaultRoutine\Silverfish\behavior\control\Behavior控场模式.cs(365,13) : warning CS0162: 检测到无法访问的代码
+2020-05-22 05:51:03,948 [8] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
+2020-05-22 05:51:03,950 [1] DEBUG Logger (null) - Current routine set to NullRoutine.
+2020-05-22 05:51:07,403 [8] ERROR AssemblyLoader`1 (null) - Compiler Error: e:\炉石\havetrynew\bin\Release\Plugins\QuestPlus\QuestPlus.cs(16,7) : error CS0246: 未能找到类型或命名空间名称“HREngine”(是否缺少 using 指令或程序集引用?)
+2020-05-22 05:51:08,958 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-22 05:51:08,962 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-22 05:51:08,965 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-22 05:51:08,966 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-22 05:51:08,968 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-22 05:51:08,971 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-22 05:51:08,973 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-22 05:51:08,974 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-22 05:51:08,975 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-22 05:51:08,976 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-22 05:51:08,985 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-22 05:51:08,986 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-22 05:51:08,988 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-22 05:51:08,989 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-22 05:51:08,990 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-22 05:51:08,991 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-22 05:51:08,992 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-22 05:51:08,993 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-22 05:51:08,994 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-22 05:51:08,996 [8] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-22 05:51:08,998 [8] DEBUG Logger (null) - [自动停止插件] 开启
+2020-05-22 05:51:09,014 [8] INFO  Logger (null) - [日常任务插件设置] 自动停止至所有日常任务完成 = True.
+2020-05-22 05:51:09,030 [8] DEBUG Logger (null) - [日常任务插件] 开启
+2020-05-22 05:51:09,038 [8] DEBUG Logger (null) - [统计插件] 初始化
+2020-05-22 05:51:09,161 [8] DEBUG Logger (null) - [统计插件] 启用
+2020-05-22 05:51:09,303 [8] INFO  Logger (null) - 
+Please read the following guide before using this program:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html
+2020-05-22 05:51:09,325 [1] INFO  Logger (null) - [统计插件] 合计: 37 胜场/ 40 总场数(胜率:92.50 %)[0 投降数] 

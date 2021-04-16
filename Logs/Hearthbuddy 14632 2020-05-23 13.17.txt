@@ -1,0 +1,109 @@
+2020-05-23 05:17:56,418 [1] INFO  Logger (null) - Hearthbuddy Version: 0.3.1446.417
+Path: C:\Users\<Username>\Desktop\卡卡2.6\Release\<ExeName>
+
+OS Name: Microsoft Windows 10 企业版
+OS Version: 10.0.17134
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2020-05-23 05:17:56,469 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2020-05-23 05:17:56,470 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2020-05-23 05:17:56,470 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2020-05-23 05:17:56,470 [1] INFO  Logger (null) - Now checking prerequisites...
+2020-05-23 05:17:56,843 [1] INFO  Logger (null) - Prerequisite check complete!
+2020-05-23 05:17:56,944 [1] INFO  Logger (null) - svchostPath: C:\WINDOWS\System32\svchost.exe
+2020-05-23 05:17:56,954 [1] INFO  Logger (null) - Pre-start tasks successfully completed.
+2020-05-23 05:17:56,966 [1] INFO  Logger (null) - [AuthRegion] China.
+2020-05-23 05:17:57,193 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 15
+2020-05-23 05:17:57,202 [1] INFO  Logger (null) - [BotManager] MsBetweenTicks = 50
+2020-05-23 05:17:57,231 [1] INFO  Logger (null) - Region: cn
+2020-05-23 05:17:57,232 [1] INFO  Logger (null) - T: 5248944097199679031 严禁交易出售，免费使用！！！
+2020-05-23 05:17:57,962 [7] INFO  Logger (null) - 现在使用 DX11...
+2020-05-23 05:18:02,941 [7] INFO  Logger (null) - 炉石传说的版本号为 (48705, 1574674)
+2020-05-23 05:18:02,999 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IBot> - Initializing
+2020-05-23 05:18:03,121 [7] INFO  Logger (null) - [脚本设置] 选牌时强制投降 = False.
+2020-05-23 05:18:03,123 [7] INFO  Logger (null) - [脚本设置] 修复客户端 = False.
+2020-05-23 05:18:03,124 [7] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 05:18:03,124 [7] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 05:18:03,125 [7] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = False.
+2020-05-23 05:18:03,125 [7] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = False.
+2020-05-23 05:18:03,125 [7] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-23 05:18:03,126 [7] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = False.
+2020-05-23 05:18:03,126 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 15000.
+2020-05-23 05:18:03,126 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 05:18:03,127 [7] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 05:18:03,127 [7] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 05:18:03,128 [7] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 05:18:03,128 [7] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 05:18:03,129 [7] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 05:18:03,129 [7] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 05:18:03,130 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 05:18:03,131 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = .
+2020-05-23 05:18:03,131 [7] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 05:18:03,132 [7] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 05:18:03,134 [7] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 狂野模式.
+2020-05-23 05:18:03,134 [7] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 05:18:03,135 [7] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = HUNTER.
+2020-05-23 05:18:03,136 [7] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 05:18:03,136 [7] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 05:18:03,137 [7] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 05:18:03,153 [7] INFO  Logger (null) - [脚本设置] 不要打开竞技场奖励 = True.
+2020-05-23 05:18:03,154 [7] INFO  Logger (null) - [脚本设置] 不要购买竞技场门票 = True.
+2020-05-23 05:18:03,155 [7] INFO  Logger (null) - [脚本设置] 延迟自投模式 = False.
+2020-05-23 05:18:03,156 [7] INFO  Logger (null) - [脚本设置] 强制不缓存任务及卡组信息 = True.
+2020-05-23 05:18:03,157 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最小延迟 = 10000.
+2020-05-23 05:18:03,158 [7] INFO  Logger (null) - [脚本设置] 开局自动投降的最大延迟 = 30000.
+2020-05-23 05:18:03,158 [7] INFO  Logger (null) - [脚本设置] 观察随机的好友 = True.
+2020-05-23 05:18:03,159 [7] INFO  Logger (null) - [脚本设置] 允许观察的好友名 = .
+2020-05-23 05:18:03,159 [7] INFO  Logger (null) - [脚本设置] 隐藏不常用的游戏模式 = True.
+2020-05-23 05:18:03,160 [7] INFO  Logger (null) - [脚本设置] 保持天梯等级 = False.
+2020-05-23 05:18:03,161 [7] INFO  Logger (null) - [脚本设置] 下一局玩家对战普通自投 = False.
+2020-05-23 05:18:03,161 [7] INFO  Logger (null) - [脚本设置] RoutineMustDraftArena = True.
+2020-05-23 05:18:03,162 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式 = 排位赛.
+2020-05-23 05:18:03,163 [7] INFO  Logger (null) - [脚本设置] 玩家对战模式卡组名 = 66.
+2020-05-23 05:18:03,164 [7] INFO  Logger (null) - [脚本设置] 开局自动祝福对手 = False.
+2020-05-23 05:18:03,165 [7] INFO  Logger (null) - [脚本设置] 游戏模式 = 玩家对战模式.
+2020-05-23 05:18:03,166 [7] INFO  Logger (null) - [脚本设置] 玩家对战规则 = 随机模式.
+2020-05-23 05:18:03,168 [7] INFO  Logger (null) - [脚本设置] 练习模式难度 = Normal.
+2020-05-23 05:18:03,169 [7] INFO  Logger (null) - [脚本设置] 练习模式对手种族 = DRUID.
+2020-05-23 05:18:03,170 [7] INFO  Logger (null) - [脚本设置] 练习模式卡组 = .
+2020-05-23 05:18:03,171 [7] INFO  Logger (null) - [脚本设置] 好友对战卡组 = .
+2020-05-23 05:18:03,171 [7] INFO  Logger (null) - [脚本设置] 允许对战的好友名 = .
+2020-05-23 05:18:03,172 [7] INFO  Logger (null) - [脚本设置] 缓存任务信息 = True.
+2020-05-23 05:18:03,172 [7] INFO  Logger (null) - [脚本设置] 缓存用户卡组信息 = True.
+2020-05-23 05:18:03,260 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IRoutine> - Initializing
+2020-05-23 05:18:03,264 [1] DEBUG Logger (null) - Current bot set to 脚本.
+2020-05-23 05:18:06,550 [7] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\卡卡2.6\Release\Routines\DefaultRoutine\Silverfish\cards\001CORE基本\Sim_HERO_08bp.cs(18,1) : error CS1022: 应输入类型、命名空间定义或文件尾
+2020-05-23 05:18:06,589 [7] DEBUG AssemblyLoader`1 (null) - Reloading AssemblyLoader<Triton.Bot.IPlugin> - Initializing
+2020-05-23 05:18:06,590 [1] DEBUG Logger (null) - Current routine set to NullRoutine.
+2020-05-23 05:18:08,252 [7] ERROR AssemblyLoader`1 (null) - Compiler Error: c:\Users\Administrator\Desktop\卡卡2.6\Release\Plugins\QuestPlus\QuestPlus.cs(16,7) : error CS0246: 未能找到类型或命名空间名称“HREngine”(是否缺少 using 指令或程序集引用?)
+2020-05-23 05:18:08,862 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-23 05:18:08,866 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-23 05:18:08,868 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-23 05:18:08,869 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-23 05:18:08,872 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-23 05:18:08,873 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-23 05:18:08,873 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-23 05:18:08,874 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-23 05:18:08,875 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-23 05:18:08,875 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-23 05:18:08,879 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = False.
+2020-05-23 05:18:08,880 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至天梯等级 = 20.
+2020-05-23 05:18:08,881 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至对局数 = 1.
+2020-05-23 05:18:08,881 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至净胜局 = 1.
+2020-05-23 05:18:08,881 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至败局 = 1.
+2020-05-23 05:18:08,882 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至投降局数 = 1.
+2020-05-23 05:18:08,883 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的对局数 = False.
+2020-05-23 05:18:08,883 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的净胜局数 = False.
+2020-05-23 05:18:08,884 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成的败局数 = False.
+2020-05-23 05:18:08,884 [7] INFO  Logger (null) - [自动停止插件设置] 自动停止至完成投降的局数 = False.
+2020-05-23 05:18:08,885 [7] DEBUG Logger (null) - [自动停止插件] 开启
+2020-05-23 05:18:08,890 [7] INFO  Logger (null) - [日常任务插件设置] 自动停止至所有日常任务完成 = True.
+2020-05-23 05:18:08,901 [7] DEBUG Logger (null) - [日常任务插件] 开启
+2020-05-23 05:18:08,904 [7] DEBUG Logger (null) - [统计插件] 初始化
+2020-05-23 05:18:08,999 [7] DEBUG Logger (null) - [统计插件] 启用
+2020-05-23 05:18:09,052 [7] INFO  Logger (null) - 
+Please read the following guide before using this program:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html
